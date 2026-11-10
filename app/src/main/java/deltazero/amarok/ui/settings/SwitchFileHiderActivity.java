@@ -1,5 +1,6 @@
 package deltazero.amarok.ui.settings;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.ImageView;
