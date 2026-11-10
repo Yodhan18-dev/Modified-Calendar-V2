@@ -21,7 +21,7 @@
     <string name="check_update_description">現在のバージョン: %s</string>
     <string name="check_update_on_start">自動アップデート</string>
     <string name="check_update_on_start_description">アプリ起動時に新しいバージョンを自動で確認する。</string>
-    <string name="view_github_repo">GitHub リポジトリ</string>
+    <string name="view_github_repo"></string>
     <string name="security">セキュリティ</string>
     <string name="misc">その他</string>
     <string name="app_lock">アプリロック</string>
@@ -61,14 +61,14 @@
     <string name="processing">処理中…</string>
     <string name="obfuscate_file_header_description">ファイルヘッダーのファイル署名を難読化し、ファイルを「破損」させます。手動で「〜で開く」をしてファイルを開くことを防ぎますが、ファイル非表示の処理が遅くなる可能性があります。</string>
     <string name="obfuscate_text_file">テキストファイルを完全に難読化</string>
-    <string name="common_error_doc_url">https://deltazefiro.github.io/Amarok-doc/en-US/hideapp.html#common-errors</string>
+    <string name="common_error_doc_url"></string>
     <string name="shizuku_service_not_running">Shizuku: サービスが実行されていません。</string>
     <string name="apphider_none">無効</string>
     <string name="learn_more">設定チュートリアル</string>
     <string name="root_not_ava">Root 権限を取得できませんでした。</string>
     <string name="filename_only">ファイル名のみ</string>
-    <string name="hideapp_doc_url">https://deltazefiro.github.io/Amarok-doc/en-US/hideapp.html</string>
-    <string name="join_developer_channel">Telegram グループ</string>
+    <string name="hideapp_doc_url"></string>
+    <string name="join_developer_channel"></string>
     <string name="current_mode">現在のモード: %s</string>
     <string name="obfuscate_text_file_enhanced">テキストファイルを完全に難読化 - 拡張</string>
     <string name="dsm_permission_denied">DSM: 権限が拒否されました</string>
@@ -94,7 +94,7 @@
     <string name="not_local_storage_description">仮想ファイルではなく、ローカルファイルであることを確認してください。</string>
     <string name="no_update_ava">最新バージョンを使用しています。</string>
     <string name="confirm">確定</string>
-    <string name="doc_url">https://deltazefiro.github.io/Amarok-doc/en-US/</string>
+    <string name="doc_url"></string>
     <string name="alert_permission_request_message">フローティングボタンは他のアプリに重ねて表示するための権限が必要です。設定から Yodhan 18 calendar を許可してください。</string>
     <string name="alert_permission_request_title">ポップアップウィンドウを表示するために必要です</string>
     <string name="apphider_not_ava_title">アプリ非表示 無効</string>
@@ -163,7 +163,7 @@
     <string name="filehider_obfuscate">難読化モード</string>
     <string name="filehider_chmod">Chmodモード</string>
     <string name="filehider_nomedia">Nomediaモード</string>
-    <string name="welcome_title">ようこそ！</string>
+    <string name="welcome_title"></string>
     <string name="warning">警告</string>
     <string name="chmod_samsung_warning"><b><font fgcolor="#ff0000">一部のSamsungユーザーから、ChmodFileHiderの使用によって端末が起動不能になったとの報告があります。</font> GitHubのIssue #105をご参照ください。ご利用は自己責任でお願いします。</b></string>
     <string name="auto_hide">自動非表示</string>
@@ -177,7 +177,7 @@
     <string name="apphider_not_activated_title">アプリ非表示 無効</string>
     <string name="apphider_not_activated_msg">この機能を使うには、アプリ非表示モードを有効にしてください。</string>
     <string name="dhizuku_failed_to_set_delegated_scopes">Dhizuku：DELEGATION_PACKAGE_ACCESS の付与に失敗しました。\nDhizukuを再度有効化してみてください。</string>
-    <string name="welcome_msg">Amarokは、個人ファイルやアプリを隠すための、無料かつ自由に使えるツールです。\n\nご注意：Amarokは暗号化ソフトではなく、「隠す」ためのツールです。機密性の高いファイルやアプリの保護には使用しないことを強く推奨します。\n\n<u>免責事項：Amarokは、いかなる保証も条件もなく提供されます。使用によって生じたいかなる損害や影響についても、責任はすべて利用者にあります。</u></string>
+    <string name="welcome_msg"></string>
     <string name="quick_hide">Quick Hide</string>
     <string name="never">一度もない</string>
     <string name="unlock">解除</string>

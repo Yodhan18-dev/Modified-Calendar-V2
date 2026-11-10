@@ -10,7 +10,7 @@
     <string name="more_settings">Pliaj agordoj</string>
     <string name="check_update_on_start">Aŭtomate ĝisdatigi</string>
     <string name="never">Neniam</string>
-    <string name="view_github_repo">GitHub-deponejo</string>
+    <string name="view_github_repo"></string>
     <string name="enable_x_hide">Ŝalti XHide</string>
     <string name="enable_x_hide_description">Stato: %s</string>
     <string name="auto_hide">Aŭtomate kaŝi</string>
@@ -33,5 +33,5 @@
     <string name="password">Pasvorto</string>
     <string name="app_name_calendar">calendar</string>
     <string name="filehider_none">Malŝaltita</string>
-    <string name="welcome_title">Bonvenon</string>
+    <string name="welcome_title"></string>
 </resources>

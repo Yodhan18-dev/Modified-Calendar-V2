@@ -38,7 +38,7 @@
     <string name="check_update_on_start">자동 업데이트</string>
     <string name="update_description">Yodhan 18 calendar %s (%d) 버전으로 다운로드 및 업데이트 가능</string>
     <string name="manually_set_path_description">주의: 파일이 존재하는지 검사를 하지 않으니 꼭 확인해 주십시오.</string>
-    <string name="view_github_repo">GitHub repository</string>
+    <string name="view_github_repo"></string>
     <string name="shizuku_pre_v11">Pre-v11의 Shizuku 버전을 지원하지 않습니다. Shizuku v11 또는 이상을 설치해 주십시오.</string>
     <string name="hidden_toast">파일 숨겨짐. 히힛!</string>
     <string name="unhidden_toast">파일 보임. 주의하세요.</string>

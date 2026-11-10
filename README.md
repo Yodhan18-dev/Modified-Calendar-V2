@@ -1,13 +1,13 @@
 
-![banner](https://github.com/user-attachments/assets/63a8fc76-30a0-4460-85be-4264b1f69334)
+![banner]()
 
 # Amarok-Hider
 
-[![](https://img.shields.io/github/v/release/deltazefiro/Amarok-Hider?label=GithubRelease)](https://github.com/deltazefiro/Amarok-Hider/releases)
+[![](https://img.shields.io/github/v/release/deltazefiro/Amarok-Hider?label=GithubRelease)]()
 [![](https://img.shields.io/f-droid/v/deltazero.amarok.foss?color=blue)](https://f-droid.org/zh_Hans/packages/deltazero.amarok.foss/)
 [![](https://img.shields.io/endpoint?url=https://apt.izzysoft.de/fdroid/api/v1/shield/deltazero.amarok.foss&color=orange)](https://apt.izzysoft.de/fdroid/index/apk/deltazero.amarok.foss)
 
-🌐 **ENGLISH** | [简体中文](https://github.com/deltazefiro/Amarok-Hider/blob/main/README.zh.md)
+🌐 **ENGLISH** | [简体中文]()
 
 ## What is Amarok?
 
@@ -35,20 +35,20 @@ Traditional encryption tools are secure but slow — decrypting a large movie fi
 
 <table>
   <tr>
-    <td><img src="https://github.com/deltazefiro/Amarok-Hider/assets/41465688/b3fe6b18-cb3e-488b-81cb-ff5ed005664b" alt="Image 1"></td>
-    <td><img src="https://github.com/deltazefiro/Amarok-Hider/assets/41465688/1a6f147c-286a-428c-9470-a469b4dd9f4e" alt="Image 2"></td>
-    <td><img src="https://github.com/deltazefiro/Amarok-Hider/assets/41465688/9b61b94f-26f2-4457-b189-93c75a09e7d5" alt="Image 3"></td>
+    <td><img src="" alt="Image 1"></td>
+    <td><img src="" alt="Image 2"></td>
+    <td><img src="" alt="Image 3"></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/deltazefiro/Amarok-Hider/assets/41465688/9ef70932-c242-4cc6-a84d-5b14ddf8a814" alt="Image 4"></td>
-    <td><img src="https://github.com/deltazefiro/Amarok-Hider/assets/41465688/3702143d-dac5-435d-9615-323ada02c63e" alt="Image 5"></td>
-    <td><img src="https://github.com/deltazefiro/Amarok-Hider/assets/41465688/a2016488-0c13-4144-93ed-5ca35179df79" alt="Image 6"></td>
+    <td><img src="" alt="Image 4"></td>
+    <td><img src="" alt="Image 5"></td>
+    <td><img src="" alt="Image 6"></td>
   </tr>
 </table>
 
 ## Download
 
-[![](https://img.shields.io/github/v/release/deltazefiro/Amarok-Hider?label=GithubRelease)](https://github.com/deltazefiro/Amarok-Hider/releases)  
+[![](https://img.shields.io/github/v/release/deltazefiro/Amarok-Hider?label=GithubRelease)]()  
 [![](https://img.shields.io/f-droid/v/deltazero.amarok.foss?color=blue)](https://f-droid.org/zh_Hans/packages/deltazero.amarok.foss/) (FOSS)  
 [![](https://img.shields.io/endpoint?url=https://apt.izzysoft.de/fdroid/api/v1/shield/deltazero.amarok.foss&color=orange)](https://apt.izzysoft.de/fdroid/index/apk/deltazero.amarok.foss)  (FOSS) (Pre-release channel)
 
@@ -56,7 +56,6 @@ Traditional encryption tools are secure but slow — decrypting a large movie fi
 
 New to Amarok? Check out our documentation for setup guides on Root, Shizuku, Dhizuku, and other app hiders.
 
-[![](https://img.shields.io/badge/AmarokDocs-ClickToView-brightgreen)](https://deltazefiro.github.io/Amarok-doc/en-US/)  
 
 ## Contributing
 
@@ -76,12 +75,12 @@ We use [weblate](https://hosted.weblate.org/engage/amarok-hider/) for translatio
 
 A massive thank you to the open-source community:
 
-* **[aistra0528/Hail](https://github.com/aistra0528/Hail):** Core reference for the app hiding logic.
-* **[RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) & [iamr0s/Dhizuku](https://github.com/iamr0s/Dhizuku):** For enabling root-less permissions.
+* **[aistra0528/Hail]():** Core reference for the app hiding logic.
+* **[RikkaApps/Shizuku]() & [iamr0s/Dhizuku]():** For enabling root-less permissions.
 * **[Icongeek26](https://www.flaticon.com/authors/icongeek26) & [Freepik](https://www.freepik.com):** For the beautiful iconography.
 * **[Jetbrains](https://www.jetbrains.com/community/opensource/#support):** For providing IDE support.
 
-... and all the dedicated [contributors](https://github.com/deltazefiro/Amarok-Hider/graphs/contributors)!
+... and all the dedicated [contributors]()!
 
 ## Disclaimers
 

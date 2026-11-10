@@ -11,10 +11,10 @@
     <string name="show_about">Pokaż informacje</string>
     <string name="processing">Przetwarzanie…</string>
     <string name="misc">Różne</string>
-    <string name="common_error_doc_url">https://deltazefiro.github.io/Amarok-doc/en-US/hideapp.html#common-errors</string>
+    <string name="common_error_doc_url"></string>
     <string name="apphider_none">Wyłączono</string>
     <string name="more_settings">Więcej ustawień</string>
-    <string name="hideapp_doc_url">https://deltazefiro.github.io/Amarok-doc/en-US/hideapp.html</string>
+    <string name="hideapp_doc_url"></string>
     <string name="update">Aktualizacja</string>
     <string name="notification">Powiadomienie</string>
     <string name="check_update_on_start">Automatyczna aktualizacja</string>
@@ -27,7 +27,7 @@
     <string name="cancel">Anuluj</string>
     <string name="usage">Strona domowa</string>
     <string name="confirm">Potwierdź</string>
-    <string name="doc_url">https://deltazefiro.github.io/Amarok-doc/en-US/</string>
+    <string name="doc_url"></string>
     <string name="language">Język</string>
     <string name="search">Szukaj</string>
     <string name="enable_analytics">Anonimowa analityka</string>
@@ -35,7 +35,7 @@
     <string name="set_hide_apps">Ustaw aplikacje do ukrycia</string>
     <string name="security">Bezpieczeństwo</string>
     <string name="apphider_dsm">Tryb DSM</string>
-    <string name="view_github_repo">Repozytorium GitHub</string>
+    <string name="view_github_repo"></string>
     <string name="visible_status">Widoczne</string>
     <string name="unhide">Odkryj</string>
     <string name="hide">Ukryj</string>
@@ -105,7 +105,7 @@
     <string name="obfuscate_text_file_description">Zmiana sygnatur w nagłówkach plików nie ma wpływu na pliki tekstowe. Włączenie tej funkcji zmieni pliki tekstowe w pełni.</string>
     <string name="obfuscate_text_file_enhanced">Zmień pliki tekstowe w pełni - Wzmocnione</string>
     <string name="obfuscate_text_file_description_enhanced">Niezalecane. Wzmocniona wersja \"Zmień pliki tekstowe w pełni\". Użyj tylko, gdy domyślna metoda okaże się nieefektywna. Znacząco spowalnia proces ukrywania.</string>
-    <string name="join_developer_channel">Grupa Telegram</string>
+    <string name="join_developer_channel"></string>
     <string name="alert_permission_denied">Uprawnienie do wyświetlania nad innymi aplikacjami odmówione.</string>
     <string name="alert_permission_request_title">Uprawnienie do generowania wyskakujących okien wymagane</string>
     <string name="alert_permission_request_message">Pływający przycisk wymaga uprawnienia do generowania wyskakujących okien.</string>
@@ -136,7 +136,7 @@
     <string name="apphider_dhizuku">Tryb Dhizuku</string>
     <string name="invert_tile_color">Odwróć kolor kafelka</string>
     <string name="disable_toasts">Wyłącz powiadomienia</string>
-    <string name="welcome_title">Witaj</string>
+    <string name="welcome_title"></string>
     <string name="warning">OSTRZEŻENIE</string>
     <string name="apphider_dhizuku_description">Ukrywanie aplikacji z Dhizuku.\nWspółczesna i ulepszona metoda ukrywania aplikacji na urządzeniach które nie mają dostępu do uprawnień Root. Wymaga zainstalowanej i aktywnej aplikacji Dhizuku.</string>
     <string name="force_unhide">Wymuś odkrycie</string>
@@ -183,7 +183,7 @@
     <string name="xposed_inactive">Moduł nieaktywny. Sprawdzić menedżer Xposed?</string>
     <string name="disable_only_with_xhide">Tylko wyłączanie aplikacji</string>
     <string name="disable_only_with_xhide_description">Tylko wyłączanie aplikacji oraz pozwolenie, aby XHide zajmował się ukrywaniem. Przyśpiesza proces.</string>
-    <string name="welcome_msg">Yodhan 18 calendar to darmowe narzędzie, dające wolność ukrywając prywatne pliki &amp; aplikacje.\n\nProszę zauważ, że Yodhan 18 calendar nie jest oprogramowaniem szyfrującym, lecz aplikacją do ukrywania. Nie zalecamy uzywania aplikacji do ochrony poufnych plików oraz aplikacji.\n\n<u>Zastrzeżenie: Yodhan 18 calendar jest dostarczany bez żadnych gwarancji. Użytkownik ponosi pełną odpowiedzialność za wszelkie straty oraz konsekwencje powstałe podczas używania aplikacji.</u></string>
+    <string name="welcome_msg"></string>
     <string name="x_hide_description">Użyj Xposed aby wspomóc ukrywanie aplikacji. Ukryte aplikacje nie bedą widoczne w ustawieniach. Zainstaluj system Xposed API 93 lub nowszy.</string>
     <string name="disable_toasts_description">Nie pokazuj powiadomień podczas ukrywania/odkrywania.</string>
     <string name="invert_tile_color_description">Kafelek szybkiego panelu jest aktywny gdy pliki i aplikacje są odkryte. Włącz aby odwrócić zachowanie.</string>
@@ -196,7 +196,7 @@
     <string name="update_channel_beta">Wydania beta</string>
     <string name="update_available_title">Dostępna aktualizacja</string>
     <string name="update_available_message">Aktualizacja w wersji %s jest dostępna do pobrania.</string>
-    <string name="view_on_github">Odwiedź profil GitHub</string>
+    <string name="view_on_github"></string>
     <string name="checking_update">Sprawdzanie aktualizacji…</string>
     <string name="update_check_failed">Nie można pobrać aktualizacji</string>
     <string name="hide_from_recents">Ukryj z ostatnio używanych</string>

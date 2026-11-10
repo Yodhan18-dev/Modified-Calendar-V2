@@ -2,7 +2,7 @@
 <resources>
     <string name="about">Om</string>
     <string name="confirm">Bekreft</string>
-    <string name="view_github_repo">Vis GitHub-kodelager</string>
+    <string name="view_github_repo"></string>
     <string name="learn_more">Oppsettsveivisning</string>
     <string name="unhide">Vis igjen</string>
     <string name="hide">Skjul</string>
@@ -21,7 +21,7 @@
     <string name="apphider_none">Avskrudd</string>
     <string name="apphider_root">Rot-modus</string>
     <string name="filename_only">Kun filnavn</string>
-    <string name="join_developer_channel">Ta del i utviklerkanalen</string>
+    <string name="join_developer_channel"></string>
     <string name="ok">OK</string>
     <string name="cancel">Avbryt</string>
     <string name="path_duplicated_description"><u>«%1$s»</u> 
@@ -83,17 +83,17 @@
     <string name="panic_button">Panikk-knapp</string>
     <string name="misc">Ymse</string>
     <string name="security">Sikkerhet</string>
-    <string name="hideapp_doc_url">https://deltazefiro.github.io/Amarok-doc/en-US/hideapp.html</string>
+    <string name="hideapp_doc_url"></string>
     <string name="obfuscate_file_header">Tilslør filhodet</string>
     <string name="apphider_none_description">Skru av programskjulingsfunksjon.</string>
     <string name="processing">Behandler …</string>
-    <string name="doc_url">https://deltazefiro.github.io/Amarok-doc/en-US/</string>
+    <string name="doc_url"></string>
     <string name="alert_permission_denied">Tilgang til visning over programmer nektet.</string>
     <string name="alert_permission_request_title">Tilgang til åpning av oppsprettsvinduer kreves</string>
     <string name="alert_permission_request_message">Panikk-knappen trenger tilgang til åpning av oppsprettsvinduer. Finn Yodhan 18 calendar i innstillingsmenyen og innvilg den tilgangen.</string>
     <string name="in_app_update_failed">Ny oppdatering tilgjengelig, men klarte ikke å hente. Oppdater manuelt.</string>
     <string name="workmode">Modus</string>
-    <string name="common_error_doc_url">https://deltazefiro.github.io/Amarok-doc/en-US/hideapp.html#common-errors</string>
+    <string name="common_error_doc_url"></string>
     <string name="failed_to_open_doc_tree">Klarte ikke å åpne systemfilvelgeren</string>
     <string name="folder_selector_hints">Hint for valg av mappe:
 \n\t 1. Trykk på «Bruk denne mappen» for å velge mappen.

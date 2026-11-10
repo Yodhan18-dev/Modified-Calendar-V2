@@ -80,7 +80,7 @@
     <string name="filehider_chmod_description">Ubah izin berkas agar tidak dapat dibaca. Diperlukan akses root. Prosedur langsung.</string>
     <string name="dhizuku_permission_denied">Dhizuku: Izin ditolak</string>
     <string name="misc">Lain-lain.</string>
-    <string name="common_error_doc_url">https://deltazefiro.github.io/Amarok-doc/en-US/hideapp.html#common-errors</string>
+    <string name="common_error_doc_url"></string>
     <string name="close_disguise_spotlight_tip">Tekan lama <font fgcolor="#FCCA3E"><b>Angka Tahun</b></font>- untuk mengakses Yodhan 18 calendar.</string>
     <string name="shizuku_service_not_running">Shizuku: Layanan tidak berjalan.</string>
     <string name="panic_button_description">Menampilkan tombol mengambang untuk menyembunyikan aplikasi dan file dengan cepat dalam keadaan darurat. Tombol ini muncul di atas semua aplikasi lain saat kondisi Yodhan 18 calendar \"Terlihat\".</string>
@@ -91,8 +91,8 @@
     <string name="failed_to_open_doc_tree">Tidak dapat membuka pemilih file sistem</string>
     <string name="dhizuku_pre_v5">Dhizuku: Versi tidak didukung. Silahkan perbarui Dhizuku ke versi 5 atau versi yang lebih baru.</string>
     <string name="filename_only">Hanya nama file</string>
-    <string name="hideapp_doc_url">https://deltazefiro.github.io/Amarok-doc/en-US/hideapp.html</string>
-    <string name="join_developer_channel">Grup Telegram</string>
+    <string name="hideapp_doc_url"></string>
+    <string name="join_developer_channel"></string>
     <string name="filehider_obfuscate_description">Mengaburkan nama dan signatur berkas. Tidak perlu akses root. Proses ini membutuhkan waktu selama beberapa saat.</string>
     <string name="update">Perbarui</string>
     <string name="notification">Notifikasi</string>
@@ -116,13 +116,13 @@
     <string name="apphider_none_description">Nonaktifkan penyembunyian aplikasi.</string>
     <string name="filehider_none">Dinonaktifkan</string>
     <string name="spotlight_do_not_show_again">JANGAN TAMPILKAN LAGI</string>
-    <string name="welcome_msg">Yodhan 18 calendar adalah alat gratis dan bebas untuk menyembunyikan file &amp; aplikasi pribadi.\n\nHarap dicatat bahwa Yodhan 18 calendar bukanlah perangkat lunak enkripsi, melainkan alat penyembunyian. Kami sangat menyarankan untuk tidak menggunakan Yodhan 18 calendar untuk melindungi file dan aplikasi rahasia dan/atau penting.\n\n<u>Pernyataan: Yodhan 18 calendar disediakan tanpa jaminan atau ketentuan apa pun. Pengguna bertanggung jawab penuh atas segala kerugian atau konsekuensi yang mungkin timbul akibat penggunaan Yodhan 18 calendar.</u></string>
+    <string name="welcome_msg"></string>
     <string name="shizuku_permission_denied">Shizuku: Izin ditolak</string>
     <string name="manually_set_path_description">Perhatian: Pastikan apa yang Anda pilih secara manual benar-benar ada, karena ini tidak divalidasi.</string>
     <string name="filename_and_header">Nama + Header file</string>
     <string name="obfuscate_filename">Kaburkan nama file</string>
     <string name="notification_channel_name">Layanan Sembunyi Cepat</string>
-    <string name="welcome_title">Selamat datang</string>
+    <string name="welcome_title"></string>
     <string name="shizuku_not_working">Shizuku: Layanan tidak tersedia. Apakah Anda sudah menginstal Shizuku/Sui di perangkat Anda?</string>
     <string name="workmode">Mode kerja</string>
     <string name="chmod_samsung_warning"><b><font fgcolor="#ff0000">Pengguna Samsung telah melaporkan bahwa menggunakan ChmodFileHider menyebabkan perangkat gagal boot.</font> Lihat Github issue #105 untuk informasi lebih lanjut. Risiko ditanggung sendiri.</b></string>
@@ -133,7 +133,7 @@
     <string name="notification_permission_request_message">Layanan Semubyi Cepat membutuhkan izin notifikasi agar dapat berfungsi.</string>
     <string name="follow_system">(Ikuti Sistem)</string>
     <string name="apphider_dhizuku">Mode Dhizuku</string>
-    <string name="doc_url">https://deltazefiro.github.io/Amarok-doc/en-US/</string>
+    <string name="doc_url"></string>
     <string name="password_incorrect">Kata sandi salah.</string>
     <string name="language">Bahasa</string>
     <string name="alert_permission_request_message">Tombol mengambang memerlukan izin untuk memunculkan jendela pop-up. Harap berikan izin ini untuk Yodhan 18 calendar di menu pengaturan.</string>
@@ -161,7 +161,7 @@
     <string name="display_system_apps">Tampilkan aplikasi sistem</string>
     <string name="filehider_chmod">Mode Chmod</string>
     <string name="enable_dynamic_color">Warna dinamis</string>
-    <string name="view_github_repo">Repositori GitHub</string>
+    <string name="view_github_repo"></string>
     <string name="enable_x_hide_description">Status: %s</string>
     <string name="enable_x_hide">Aktifkan XHide</string>
     <string name="block_screenshots">Halangi tangkapan layar</string>

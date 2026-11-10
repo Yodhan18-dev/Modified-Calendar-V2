@@ -56,7 +56,7 @@
     <string name="app_lock_description">طلب كلمة مرور للوصول إلى Yodhan 18 calendar.</string>
     <string name="dhizuku_permission_denied">Dhizuku: تم رفض الإذن</string>
     <string name="misc">متفرقات.</string>
-    <string name="common_error_doc_url">https://deltazefiro.github.io/Amarok-doc/en-US/hideapp.html#common-errors</string>
+    <string name="common_error_doc_url"></string>
     <string name="close_disguise_spotlight_tip">اضغط لفترة طويلة على <font fgcolor="#FCCA3E"> <b>رقم السنة</b></font> للوصول إلى Yodhan 18 calendar.</string>
     <string name="shizuku_service_not_running">Shizuku: الخدمة لا تعمل.</string>
     <string name="panic_button_description">يعرض زرًا عائمًا لإخفاء التطبيقات والملفات بسرعة في حالات الطوارئ. يظهر هذا الزر فوق جميع التطبيقات الأخرى عندما يكون Yodhan 18 calendar غير مخفي.</string>
@@ -69,8 +69,8 @@
     <string name="dhizuku_pre_v5">Dhizuku: إصدار Dhizuku غير مدعوم. يرجى تحديث Dhizuku إلى الإصدار 5 أو أعلى.</string>
     <string name="filename_only">أسماء الملفات فقط</string>
     <string name="more_settings">المزيد من الإعدادات</string>
-    <string name="hideapp_doc_url">https://deltazefiro.github.io/Amarok-doc/en-US/hideapp.html</string>
-    <string name="join_developer_channel">مجموعة Telegram</string>
+    <string name="hideapp_doc_url"></string>
+    <string name="join_developer_channel"></string>
     <string name="current_mode">الوضع الحالي: %s</string>
     <string name="update">تحديث</string>
     <string name="notification">الاشعارات</string>
@@ -122,7 +122,7 @@
     <string name="confirm">تأكيد</string>
     <string name="follow_system">(اتبع النظام)</string>
     <string name="apphider_dhizuku">وضع Dhizuku</string>
-    <string name="doc_url">https://deltazefiro.github.io/Amarok-doc/en-US/</string>
+    <string name="doc_url"></string>
     <string name="password_incorrect">كلمة المرور غير صحيحة.</string>
     <string name="language">اللغة</string>
     <string name="alert_permission_request_message">الزر العائم يحتاج إلى إذن لإنشاء نوافذ منبثقة. يرجى منح هذا الإذن في قائمة الإعدادات تحت قسم Yodhan 18 calendar.</string>
@@ -157,19 +157,15 @@
     <string name="display_system_apps">عرض تطبيقات النظام</string>
     <string name="enable_dynamic_color">لون ديناميكي</string>
     <string name="invalid_dsm_provider">DSM: موفر DSM غير صالح. هل قمت بتثبيت وتفعيل موفر DSM على جهازك؟</string>
-    <string name="view_github_repo">مستودع Github</string>
+    <string name="view_github_repo"></string>
     <string name="filehider_nomedia_description">يضيف ببساطة .nomedia إلى المجلدات. لا يتطلب الوصول إلى الجذر.</string>
     <string name="filehider_none_description">تعطيل إخفاء الملفات.</string>
     <string name="filehider_chmod_description">تغيير أذونات الملفات لجعلها غير قابلة للقراءة. يتطلب صلاحيات الجذر. الإجراء فوري.</string>
     <string name="filehider_obfuscate_description">تشويش أسماء الملفات وتوقيعات الملفات. لا يتطلب صلاحيات الجذر. قد يستغرق بعض الوقت للمعالجة.</string>
     <string name="filehider_nomedia">وضع لا وسائط</string>
     <string name="filehider_none">معطّل</string>
-    <string name="welcome_msg">Yodhan 18 calendar هي أداة مجانية وحرة لإخفاء الملفات والتطبيقات الخاصة.
-\n
-\nيرجى ملاحظة أن Yodhan 18 calendar ليس برنامج تشفير، بل أداة لإخفاء الأشياء. ننصح بشدة بعدم استخدام Yodhan 18 calendar لحماية الملفات والتطبيقات السرية.
-\n
-\n<u>إخلاء المسؤولية: يتم توفير Yodhan 18 calendar دون أي ضمانات أو شروط. يتحمل المستخدم المسؤولية الكاملة عن أي ضرر أو عواقب قد تنشأ عن استخدام Yodhan 18 calendar.</u></string>
-    <string name="welcome_title">مرحباً</string>
+    <string name="welcome_msg"></string>
+    <string name="welcome_title"></string>
     <string name="filehider_obfuscate">وضع التشويش</string>
     <string name="filehider_not_ava_title">إخفاء الملف غير متوفر</string>
     <string name="filehider_chmod">وضع Chmod</string>
@@ -210,7 +206,7 @@
     <string name="update_channel_beta">إصدارات تجريبية أولية</string>
     <string name="update_available_title">يتوفر تحديث</string>
     <string name="update_available_message">الإصدار %s متاح الان للتحديث.</string>
-    <string name="view_on_github">عرض على GitHub</string>
+    <string name="view_on_github"></string>
     <string name="checking_update">جارٍ التحقق من وجود تحديثات…</string>
     <string name="update_check_failed">فشل التحقق من وجود تحديثات</string>
     <string name="hide_from_recents">إخفاء من آخر الأخبار</string>

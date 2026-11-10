@@ -1,7 +1,6 @@
 package deltazero.amarok.ui;
 
 import android.content.Intent;
-import android.net.Uri;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.ImageView;
@@ -23,7 +22,6 @@ import deltazero.amarok.ui.settings.SettingsActivity;
 import deltazero.amarok.ui.settings.SwitchAppHiderActivity;
 import deltazero.amarok.ui.settings.SwitchFileHiderActivity;
 import deltazero.amarok.utils.PermissionUtil;
-import deltazero.amarok.utils.UpdateUtil;
 import nl.dionsegijn.konfetti.xml.KonfettiView;
 
 public class MainActivity extends AmarokActivity {
@@ -57,25 +55,7 @@ public class MainActivity extends AmarokActivity {
 
         // Setup observer
         Hider.state.observe(this, this::refreshUi);
-
-        // Show welcome dialog
-        if (PrefMgr.getShowWelcome()) {
-            new MaterialAlertDialogBuilder(this)
-                    .setTitle(R.string.welcome_title)
-                    .setMessage(R.string.welcome_msg)
-                    .setPositiveButton(R.string.ok, (dialog, which)
-                            -> PermissionUtil.requestStoragePermission(this))
-                    .setNegativeButton(R.string.view_github_repo, (dialog, which) -> {
-                        startActivity(new Intent(Intent.ACTION_VIEW,
-                                Uri.parse("https://github.com/deltazefiro/Amarok-Hider")));
-                        PermissionUtil.requestStoragePermission(this);
-                    })
-                    .setOnCancelListener(dialog -> PermissionUtil.requestStoragePermission(this))
-                    .show();
-            PrefMgr.setShowWelcome(false);
-        } else {
-            PermissionUtil.requestStoragePermission(this);
-        }
+        PermissionUtil.requestStoragePermission(this);
 
         // Check Hiders availability
         PrefMgr.getAppHider(this).tryToActivate((appHiderClass, succeed, msg) -> {
@@ -94,11 +74,6 @@ public class MainActivity extends AmarokActivity {
                     .setNegativeButton(getString(R.string.ok), null)
                     .show();
         });
-
-        // Check for updates
-        if (PrefMgr.getEnableAutoUpdate()) {
-            UpdateUtil.checkAndNotify(this, true);
-        }
     }
 
     public void changeStatus(View view) {

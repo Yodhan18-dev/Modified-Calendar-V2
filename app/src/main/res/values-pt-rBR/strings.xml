@@ -19,7 +19,7 @@
     <string name="check_update_description">Versão atual: %s</string>
     <string name="update_ava">Nova versão disponível</string>
     <string name="update">Atualizar</string>
-    <string name="view_github_repo">Repositório GitHub</string>
+    <string name="view_github_repo"></string>
     <string name="never">Nunca</string>
     <string name="apphider_none">Desativado</string>
     <string name="no_update_ava">Você está executando a última versão.</string>
@@ -42,7 +42,7 @@
     <string name="obfuscate_file_header">Obfuscar cabeçalhos de arquivo</string>
     <string name="filename_only">Apenas nomes de arquivo</string>
     <string name="processing">Processando…</string>
-    <string name="join_developer_channel">Grupo do Telegram</string>
+    <string name="join_developer_channel"></string>
     <string name="security">Segurança</string>
     <string name="notification">Notificação</string>
     <string name="notification_permission_denied">Permissão de notificação negada.</string>
@@ -85,7 +85,7 @@
     <string name="filehider_chmod_description">Alterar permissões de arquivos para torná-los ilegíveis. É necessário acesso root. O procedimento é imediato.</string>
     <string name="dhizuku_permission_denied">Dhizuku: Permissão negada</string>
     <string name="misc">Outros.</string>
-    <string name="common_error_doc_url">https://deltazefiro.github.io/Amarok-doc/en-US/hideapp.html#common-errors</string>
+    <string name="common_error_doc_url"></string>
     <string name="close_disguise_spotlight_tip">Mantenha pressionado o <font fgcolor="#FCCA3E"><b>Número do Ano</b></font> para acessar o Yodhan 18 calendar.</string>
     <string name="shizuku_service_not_running">Shizuku: Serviço não em execução.</string>
     <string name="panic_button_description">Exibe um botão flutuante para ocultar rapidamente aplicativos e arquivos em caso de emergência. Este botão aparece sobre todos os outros aplicativos quando o Yodhan 18 calendar está visível.</string>
@@ -94,7 +94,7 @@
     <string name="failed_to_open_doc_tree">Não foi possível abrir o seletor de arquivos do sistema</string>
     <string name="root_not_ava">Não foi possível obter acesso root.</string>
     <string name="dhizuku_pre_v5">Dhizuku: Versão do Dhizuku não suportada. Por favor, atualize o Dhizuku para a versão 5 ou superior.</string>
-    <string name="hideapp_doc_url">https://deltazefiro.github.io/Amarok-doc/en-US/hideapp.html</string>
+    <string name="hideapp_doc_url"></string>
     <string name="filehider_obfuscate_description">Oculta nomes e assinaturas de arquivos. Não requer acesso root. O processamento pode demorar um pouco.</string>
     <string name="confirm_password">Confirme a senha</string>
     <string name="obfuscate_text_file_enhanced">Ofuscar completamente arquivos de texto - Aprimorado</string>
@@ -126,15 +126,11 @@
     <string name="apphider_none_description">Desativar a ocultação de aplicativos.</string>
     <string name="filehider_none">Desativado</string>
     <string name="spotlight_do_not_show_again">NÃO MOSTRAR NOVAMENTE</string>
-    <string name="welcome_msg">Yodhan 18 calendar é uma ferramenta gratuita e de código aberto para ocultar arquivos e aplicativos privados.
-\n
-\nPor favor, observe que o Yodhan 18 calendar não é um software de criptografia, mas sim uma ferramenta para ocultar coisas. Recomendamos enfaticamente que você evite usar o Yodhan 18 calendar para proteger arquivos e aplicativos confidenciais.
-\n
-\n<u>Avisos legais: O Yodhan 18 calendar é fornecido sem garantias ou condições. O usuário é totalmente responsável por qualquer dano ou consequência que possa surgir do uso do Yodhan 18 calendar.</u></string>
+    <string name="welcome_msg"></string>
     <string name="shizuku_permission_denied">Shizuku: Permissão negada</string>
     <string name="manually_set_path_description">Cuidado: Garanta que o que você selecionar manualmente realmente exista, pois isso não é validado.</string>
     <string name="notification_channel_name">Serviço de Ocultação Rápida</string>
-    <string name="welcome_title">Bem-vindo</string>
+    <string name="welcome_title"></string>
     <string name="shizuku_not_working">Shizuku: Serviço indisponível. Você instalou o Shizuku/Sui em seu dispositivo?</string>
     <string name="workmode">Modo de trabalho</string>
     <string name="alert_permission_denied">Permissão para exibir sobre outros aplicativos negada.</string>
@@ -145,7 +141,7 @@
     <string name="notification_permission_request_message">O serviço QuickHide precisa de permissão de notificação para funcionar.</string>
     <string name="follow_system">(Seguir o sistema)</string>
     <string name="apphider_dhizuku">Modo Dhizuku</string>
-    <string name="doc_url">https://deltazefiro.github.io/Amarok-doc/en-US/</string>
+    <string name="doc_url"></string>
     <string name="password_incorrect">Senha incorreta.</string>
     <string name="language">Idioma</string>
     <string name="alert_permission_request_message">O botão flutuante precisa de permissão para abrir janelas pop-up. Conceda essa permissão no menu de configurações do Yodhan 18 calendar.</string>
@@ -188,7 +184,7 @@
     <string name="update_channel_beta">Versões beta de pré-lançamento</string>
     <string name="update_available_title">Atualização disponível</string>
     <string name="update_available_message">A versão %s já está disponível para atualização.</string>
-    <string name="view_on_github">Ver no GitHub</string>
+    <string name="view_on_github"></string>
     <string name="checking_update">Verificando atualizações…</string>
     <string name="update_check_failed">Falha ao verificar se há atualizações</string>
     <string name="display_root_apps">Exibir aplicativos relacionados ao root</string>

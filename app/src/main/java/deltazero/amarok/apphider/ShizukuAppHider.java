@@ -36,7 +36,6 @@ public class ShizukuAppHider extends BaseAppHider {
         Through Shizuku wrapper.
         Reference:
             - https://www.xda-developers.com/implementing-shizuku/
-            - https://github.dev/aistra0528/Hail
          */
 
         Method mSetApplicationEnabledSetting;

@@ -51,7 +51,7 @@
     <string name="filehider_chmod_description">Zmení oprávnenia k súborom tak, aby boli nečitateľné. Vyžaduje sa root prístup. Proces je okamžitý.</string>
     <string name="dhizuku_permission_denied">Dhizuku: Povolenie zamietnuté</string>
     <string name="misc">Rôzne.</string>
-    <string name="common_error_doc_url">https://deltazefiro.github.io/Amarok-doc/en-US/hideapp.html#common-errors</string>
+    <string name="common_error_doc_url"></string>
     <string name="close_disguise_spotlight_tip">Dlho stlačte tlačidlo <font fgcolor="#FCCA3E"><b>Číslo roku</b></font>na prístup do aplikácie Yodhan 18 calendar.</string>
     <string name="shizuku_service_not_running">Shizuku: Služba nie je spustená.</string>
     <string name="panic_button_description">Zobrazí plávajúce tlačidlo pre rýchle skrytie aplikácií a súborov v núdzovej situácii. Toto tlačidlo sa zobrazí nad všetkými ostatnými aplikáciami, keď je Yodhan 18 calendar odkrytý.</string>
@@ -64,8 +64,8 @@
     <string name="dhizuku_pre_v5">Dhizuku: Nepodporovaná verzia Dhizuku. Aktualizujte Dhizuku na verziu 5 alebo vyššiu.</string>
     <string name="filename_only">Len názvy súborov</string>
     <string name="more_settings">Viac nastavení</string>
-    <string name="hideapp_doc_url">https://deltazefiro.github.io/Amarok-doc/en-US/hideapp.html</string>
-    <string name="join_developer_channel">Telegramová skupina</string>
+    <string name="hideapp_doc_url"></string>
+    <string name="join_developer_channel"></string>
     <string name="current_mode">Aktuálny režim: %s</string>
     <string name="filehider_obfuscate_description">Zakrývanie názvov súborov a podpisov súborov. Nie je potrebný prístup root. Spracovanie môže trvať určitý čas.</string>
     <string name="update">Aktualizácia</string>
@@ -106,18 +106,14 @@
     <string name="filehider_none">Vypnutý</string>
     <string name="about">O nás</string>
     <string name="spotlight_do_not_show_again">NEZOBRAZOVAŤ ZNOVA</string>
-    <string name="welcome_msg">Yodhan 18 calendar je bezplatný a slobodný nástroj na skrývanie súkromných súborov &amp; aplikácií.
-\n
-\nUpozorňujeme, že Yodhan 18 calendar nie je šifrovací softvér, ale skôr nástroj na skrývanie vecí. Dôrazne neodporúčame používať Yodhan 18 calendar na ochranu dôverných súborov a aplikácií.
-\n
-\n<u>Odmietnutie zodpovednosti: Yodhan 18 calendar sa poskytuje bez akýchkoľvek záruk alebo podmienok. Používateľ je plne zodpovedný za akúkoľvek škodu alebo následky, ktoré môžu vzniknúť používaním programu Yodhan 18 calendar.</u></string>
+    <string name="welcome_msg"></string>
     <string name="storage_permission_request_title">Potrebné povolenie k úložisku</string>
     <string name="shizuku_permission_denied">Shizuku: Povolenie zamietnuté</string>
     <string name="manually_set_path_description">Upozornenie: Uistite sa, že to, čo vyberiete ručne, skutočne existuje, pretože to nie je overené.</string>
     <string name="filename_and_header">Názov súboru + hlavička</string>
     <string name="obfuscate_filename">Zamaskovanie názvov súborov</string>
     <string name="notification_channel_name">Služba rýchleho skrývania</string>
-    <string name="welcome_title">Vitajte</string>
+    <string name="welcome_title"></string>
     <string name="shizuku_not_working">Shizuku: Služba nie je k dispozícii. Nainštalovali ste Shizuku/Sui do svojho zariadenia?</string>
     <string name="unhide">Odkryť</string>
     <string name="hide">Skryť</string>
@@ -135,7 +131,7 @@
     <string name="confirm">Potvrdiť</string>
     <string name="follow_system">(Sledovanie systému)</string>
     <string name="apphider_dhizuku">Režim Dhizuku</string>
-    <string name="doc_url">https://deltazefiro.github.io/Amarok-doc/en-US/</string>
+    <string name="doc_url"></string>
     <string name="password_incorrect">Nesprávne heslo.</string>
     <string name="language">Jazyk</string>
     <string name="alert_permission_request_message">Plávajúce tlačidlo potrebuje povolenie na vytváranie vyskakovacích okien. Toto povolenie udeľte v ponuke nastavení v časti Yodhan 18 calendar.</string>
@@ -174,7 +170,7 @@
     <string name="filehider_chmod">Režim Chmod</string>
     <string name="enable_dynamic_color">Dynamická farba</string>
     <string name="invalid_dsm_provider">DSM: Neplatný poskytovateľ DSM. Nainštalovali ste a aktivovali ste poskytovateľa DSM vo vašom zariadení?</string>
-    <string name="view_github_repo">Repozitár GitHub</string>
+    <string name="view_github_repo"></string>
     <string name="appearance">Personalizácia</string>
     <string name="auto_hide">Automaticky skrývať</string>
     <string name="auto_hide_description">Po vypnutí obrazovky sa automaticky skryje.</string>
@@ -209,7 +205,7 @@
     <string name="update_channel_beta">Predbežné verzie beta</string>
     <string name="update_available_title">Aktualizácia je k dispozícii</string>
     <string name="update_available_message">Verzia %s je teraz k dispozícii na aktualizáciu.</string>
-    <string name="view_on_github">Pozrieť na GitHub</string>
+    <string name="view_on_github"></string>
     <string name="checking_update">Skontrolovať aktualizácie…</string>
     <string name="update_check_failed">Nepodarilo sa skontrolovať aktualizácie</string>
     <string name="hide_amarok_icon_description">Schovať Yodhan 18 calendar z spúšťača telefónu. Zadajte *#*#262765#*#*, pre otvorenie aplikácie Yodhan 18 calendar.</string>

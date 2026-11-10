@@ -25,8 +25,8 @@
     <string name="appearance">外觀</string>
     <string name="chmod_samsung_warning">一些三星用户報告稱使用ChmodFileHider會導致設備無法啓動。更多信息請參閲GitHub issue #105。請自行承擔風險。</string>
     <string name="warning">警告</string>
-    <string name="welcome_msg">Yodhan 18 calendar 是一個免費且自由的隱藏私密文件工具＆應用。\n請注意，Yodhan 18 calendar 不是加密軟件，而是一個隱藏物品的工具。我們強烈建議不要使用Amarok來保護機密文件和應用程序。\n\n\n\n\n&lt;你&gt;免責聲明：Yodhan 18 calendar 提供時不承擔任何保證或條件。用户對使用Amarok可能產生的任何傷害或後果負全責。&lt;/u&gt;</string>
-    <string name="welcome_title">歡迎</string>
+    <string name="welcome_msg"></string>
+    <string name="welcome_title"></string>
     <string name="filehider_nomedia_description">只需在文件夾中添加.nomedia。不需要root權限。</string>
     <string name="filehider_nomedia">Nomedia 模式</string>
     <string name="filehider_chmod_description">更改文件權限使其無法讀取。需要root權限。該過程即刻生效。</string>

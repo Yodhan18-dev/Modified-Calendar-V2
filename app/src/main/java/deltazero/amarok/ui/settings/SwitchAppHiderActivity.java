@@ -1,7 +1,5 @@
 package deltazero.amarok.ui.settings;
 
-import android.content.Intent;
-import android.net.Uri;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.RadioButton;
@@ -69,10 +67,6 @@ public class SwitchAppHiderActivity extends AmarokActivity {
         }
     }
 
-    public void onClickLearnMoreButton(View view) {
-        startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse(getString(R.string.hideapp_doc_url))));
-    }
-
     public void onClickOKButton(View view) {
         finish();
     }
@@ -91,8 +85,6 @@ public class SwitchAppHiderActivity extends AmarokActivity {
                     .setTitle(R.string.apphider_not_ava_title)
                     .setMessage(msgResID)
                     .setPositiveButton(getString(R.string.ok), null)
-                    .setNegativeButton(R.string.help, (dialog, which)
-                            -> startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse(getString(R.string.common_error_doc_url)))))
                     .show());
         }
     }

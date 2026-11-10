@@ -27,7 +27,7 @@
     <string name="check_update">Έλεγχος για ενημέρωση</string>
     <string name="check_update_description">Τρέχουσα έκδοση: %s</string>
     <string name="update">Ενημέρωση</string>
-    <string name="view_github_repo">Αποθετήριο GitHub</string>
+    <string name="view_github_repo"></string>
     <string name="shizuku_permission_denied">Shizuku: Η άδεια απορρίφθηκε</string>
     <string name="shizuku_not_working">Shizuku: Υπηρεσία μη διαθέσιμη. Έχεις εγκαταστήσει το Shizuku/Sui στην συσκευή σου;</string>
     <string name="shizuku_service_not_running">Shizuku: Η υπηρεσία δεν εκτελείται.</string>
@@ -79,11 +79,11 @@
     <string name="filename_and_header">Όνομα αρχείου + Επικεφαλίδα</string>
     <string name="obfuscate_text_file">Πλήρης θόλωμα αρχείων κειμένου</string>
     <string name="obfuscate_text_file_description">Η θολώσει των επικεφαλίδων αρχείων δεν έχει καμία επίδραση στα αρχεία κειμένου. Η ενεργοποίηση αυτής της λειτουργίας θα θολώσει πλήρως τα αρχεία κειμένου.</string>
-    <string name="join_developer_channel">Ομάδα Telegram</string>
+    <string name="join_developer_channel"></string>
     <string name="processing">Επεξεργασία…</string>
-    <string name="doc_url">https://deltazefiro.github.io/Amarok-doc/en-US/</string>
-    <string name="common_error_doc_url">https://deltazefiro.github.io/Amarok-doc/en-US/hideapp.html#common-errors</string>
-    <string name="hideapp_doc_url">https://deltazefiro.github.io/Amarok-doc/en-US/hideapp.html</string>
+    <string name="doc_url"></string>
+    <string name="common_error_doc_url"></string>
+    <string name="hideapp_doc_url"></string>
     <string name="alert_permission_denied">Η άδεια για εμφάνιση πάνω σε άλλες εφαρμογές απορρίφθηκε.</string>
     <string name="alert_permission_request_title">Απαιτείται άδεια δημιουργίας αναδυόμενων παραθύρων</string>
     <string name="alert_permission_request_message">Το αιωρούμενο κουμπί χρειάζεται άδεια για τη δημιουργία αναδυόμενων παραθύρων. Παρακαλούμε χορηγήστε αυτήν την άδεια στο μενού ρυθμίσεων στο Yodhan 18 calendar.</string>
@@ -144,7 +144,7 @@
     <string name="filehider_chmod">Λειτουργία Chmod</string>
     <string name="filehider_nomedia">Λειτουργία NoMedia</string>
     <string name="filehider_nomedia_description">Απλώς προσθέτει το .nomedia στους φακέλους. Δεν απαιτείται πρόσβαση root.</string>
-    <string name="welcome_title">Καλώς ορίσατε</string>
+    <string name="welcome_title"></string>
     <string name="warning">ΠΡΟΕΙΔΟΠΟΙΗΣΗ</string>
     <string name="appearance">Εμφάνιση</string>
     <string name="auto_hide">Αυτόματη απόκρυψη</string>
@@ -163,7 +163,7 @@
     <string name="filehider_obfuscate">Λειτουργία Θολώματος</string>
     <string name="filehider_chmod_description">Αλλαγή δικαιωμάτων των αρχείων για να γίνουν μη αναγνώσιμα. Απαιτείται πρόσβαση root. Η διαδικασία είναι άμεση.</string>
     <string name="chmod_samsung_warning">Ορισμένοι χρήστες Samsung ανέφεραν ότι η χρήση του ChmodFileHider προκάλεσε την αποτυχία εκκίνησης των συσκευών τους. Ανατρέξτε στο GitHub στο ζήτημα #105 για περισσότερες πληροφορίες. Χρήση με δική σας ευθύνη.</string>
-    <string name="welcome_msg">Το Yodhan 18 calendar είναι ένα δωρεάν και ελεύθερο εργαλείο για την απόκρυψη ιδιωτικών αρχείων &amp; εφαρμογών.\n\nΛάβετε υπόψη ότι το Yodhan 18 calendar δεν είναι ένα λογισμικό κρυπτογράφησης, αλλά ένα εργαλείο για την απόκρυψη πραγμάτων. Σας συμβουλεύουμε ανεπιφύλακτα να μην χρησιμοποιείτε το Yodhan 18 calendar για την προστασία εμπιστευτικών αρχείων και εφαρμογών.\n\n<u>Αποποίηση ευθυνών: Το Yodhan 18 calendar παρέχεται χωρίς εγγυήσεις ή προϋποθέσεις. Ο χρήστης είναι πλήρως υπεύθυνος για οποιαδήποτε βλάβη ή συνέπειες που μπορεί να προκύψουν από τη χρήση του Yodhan 18 calendar.</u></string>
+    <string name="welcome_msg"></string>
     <string name="invert_tile_color">Αντιστροφή χρώματος πλακιδίων</string>
     <string name="invert_tile_color_description">Από προεπιλογή, το πλακίδιο γρήγορων ρυθμίσεων εμφανίζεται ενεργοποιημένο όταν είναι ορατό το απόρρητο σας. Ενεργοποιήσει επιλογής για να αντιστρέψετε τη συμπεριφορά.</string>
     <string name="xposed_desc">Ενεργοποίηση του Yodhan 18 calendar για απόκρυψη εφαρμογών από τα μενού συστήματος.</string>
@@ -193,7 +193,7 @@
     <string name="update_channel_beta">Beta προ-εκδόσεις</string>
     <string name="update_available_title">Διαθέσιμη Ενημέρωση</string>
     <string name="update_available_message">Η έκδοση %s είναι τώρα διαθέσιμη για ενημέρωση.</string>
-    <string name="view_on_github">Προβολή στο GitHub</string>
+    <string name="view_on_github"></string>
     <string name="checking_update">Έλεγχος για ενημερώσεις…</string>
     <string name="update_check_failed">Αποτυχία ελέγχου για ενημερώσεις</string>
     <string name="hide_from_recents">Απόκρυψη από τα Πρόσφατα</string>

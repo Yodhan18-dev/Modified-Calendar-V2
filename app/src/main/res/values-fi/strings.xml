@@ -45,7 +45,7 @@
     <string name="never">Ei koskaan</string>
     <string name="no_update_ava">Käytössäsi on uusin versio.</string>
     <string name="manually_set_path">Poimi käsin</string>
-    <string name="view_github_repo">GitHub-tietovarasto</string>
+    <string name="view_github_repo"></string>
     <string name="shizuku_pre_v11">Ei-tuettu Shizuku-versio: v11:n edeltävä. Asenna Shizuku v11 tai uudempi.</string>
     <string name="shizuku_permission_denied">Shizuku: Lupa evätty</string>
     <string name="shizuku_not_working">Shizuku: Palvelu ei saatavilla. Oletko asentanut Shizuku/Suin laitteellesi?</string>
@@ -61,7 +61,7 @@
     <string name="language">Kieli</string>
     <string name="password_incorrect">Salasana on virheellinen.</string>
     <string name="auto_hide_delay">Automaattisen piilotuksen viive</string>
-    <string name="welcome_title">Tervetuloa</string>
+    <string name="welcome_title"></string>
     <string name="auto_hide">Piilota automaattisesti</string>
     <string name="auto_hide_description">Piilotetaan automaattisesti, kun näyttö sammutetaan.</string>
     <string name="auto_hide_delay_description">Näytön sammuttamisen jälkeinen viive piilotukselle (minuuteissa).</string>
@@ -82,7 +82,7 @@
     <string name="obfuscate_file_header">Peitä tiedostojen ylätunnisteet</string>
     <string name="obfuscate_text_file">Peitä tekstitiedostot täysin</string>
     <string name="filename_and_header">Tiedostonnimi + ylätunniste</string>
-    <string name="join_developer_channel">Telegram-ryhmä</string>
+    <string name="join_developer_channel"></string>
     <string name="security">Suojaus</string>
     <string name="panic_button">Paniikkipainike</string>
     <string name="search">Haku</string>

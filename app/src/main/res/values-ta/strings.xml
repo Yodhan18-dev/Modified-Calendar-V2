@@ -52,7 +52,7 @@
     <string name="no_update_ava">நீங்கள் அண்மைக் கால பதிப்பை இயக்குகிறீர்கள்.</string>
     <string name="manually_set_path">கைமுறையாக தேர்ந்தெடுக்கவும்</string>
     <string name="manually_set_path_description">எச்சரிக்கை: இது சரிபார்க்கப்படாததால், நீங்கள் தேர்ந்தெடுப்பது கைமுறையாக உண்மையில் இருப்பதை உறுதிசெய்க.</string>
-    <string name="view_github_repo">அறிவிலிமையம் களஞ்சியம்</string>
+    <string name="view_github_repo"></string>
     <string name="shizuku_pre_v11">ஆதரிக்கப்படாத சிசுகு பதிப்பு: V11 க்கு முன். தயவுசெய்து சிசுகு வி 11 அல்லது அதற்குப் பிறகு நிறுவவும்.</string>
     <string name="shizuku_permission_denied">சிசுகு: இசைவு மறுக்கப்பட்டது</string>
     <string name="shizuku_not_working">சிசுகு: பணி கிடைக்கவில்லை. உங்கள் சாதனத்தில் சிசுகு/சுய் நிறுவியிருக்கிறீர்களா?</string>
@@ -76,11 +76,11 @@
     <string name="obfuscate_text_file">உரை கோப்புகளை முழுமையாக தெளிவுபடுத்துங்கள்</string>
     <string name="obfuscate_text_file_enhanced">உரை கோப்புகளை முழுமையாக தெளிவுபடுத்துங்கள் - மேம்படுத்தப்பட்டது</string>
     <string name="obfuscate_text_file_description_enhanced">பரிந்துரைக்கப்படவில்லை. \"முழுமையாக ஒடுக்கப்பட்ட உரை கோப்புகள்\" இன் மேம்பட்ட பதிப்பு. நிலையான முறை பயனற்றதாக நிரூபிக்கப்பட்டால் மட்டுமே இந்த விருப்பத்தைப் பயன்படுத்தவும். மறைக்கும் செயல்முறையை கணிசமாகக் குறைக்கிறது.</string>
-    <string name="join_developer_channel">தந்தி குழு</string>
+    <string name="join_developer_channel"></string>
     <string name="processing">செயலாக்கம்…</string>
-    <string name="doc_url">https://deltazefiro.github.io/Amarok-doc/en-US/</string>
-    <string name="common_error_doc_url">https://deltazefiro.github.io/Amarok-doc/en-US/hideapp.html#common-errors</string>
-    <string name="hideapp_doc_url">https://deltazefiro.github.io/Amarok-doc/en-US/hideapp.html</string>
+    <string name="doc_url"></string>
+    <string name="common_error_doc_url"></string>
+    <string name="hideapp_doc_url"></string>
     <string name="alert_permission_denied">மறுக்கப்பட்ட பிற பயன்பாடுகளைக் காண்பிக்க இசைவு.</string>
     <string name="alert_permission_request_title">பாப்-அப் சாளரங்களை உருவாக்க இசைவு தேவை</string>
     <string name="alert_permission_request_message">மிதக்கும் பொத்தானை பாப்-அப் சாளரங்களை உருவாக்க இசைவு தேவை. அமரோக்கின் கீழ் உள்ள அமைப்புகள் பட்டியலில் இந்த அனுமதியை வழங்கவும்.</string>
@@ -146,7 +146,7 @@
     <string name="filehider_chmod_description">கோப்பு அனுமதிகளை படிக்க முடியாததாக மாற்ற மாற்றவும். வேர் அணுகல் தேவை. செயல்முறை உடனடியாக உள்ளது.</string>
     <string name="filehider_nomedia">நியமன பயன்முறை</string>
     <string name="filehider_nomedia_description">வெறுமனே .நோமீடியாவை கோப்புறைகளுக்கு சேர்க்கிறது. ரூட் அணுகல் தேவையில்லை.</string>
-    <string name="welcome_title">வரவேற்கிறோம்</string>
+    <string name="welcome_title"></string>
     <string name="warning">எச்சரிக்கை</string>
     <string name="appearance">தோற்றம்</string>
     <string name="auto_hide">ஆட்டோ மறை</string>
@@ -159,7 +159,7 @@
     <string name="xposed_inactive">தொகுதி செயலற்ற. எக்ச்போச் மேலாளரை சரிபார்க்கவா?</string>
     <string name="invert_tile_color_description">இயல்பாக, உங்கள் தனியுரிமை தெரியும் போது விரைவான அமைப்புகள் ஓடு செயல்படுத்தப்படும். நடத்தையை மாற்றியமைக்க இந்த விருப்பத்தை மாற்றவும்.</string>
     <string name="chmod_samsung_warning"><b><font fgcolor="#ff0000"> சில சாம்சங் பயனர்கள் Chmodfilehider ஐப் பயன்படுத்துவது அவர்களின் சாதனங்களைத் துவக்கத் தவறிவிட்டது என்று தெரிவித்துள்ளது. </font> மேலும் தகவலுக்கு அறிவிலிமையம் வெளியீடு #105 ஐப் பார்க்கவும். உங்கள் சொந்த ஆபத்தில் பயன்படுத்தவும். </b></string>
-    <string name="welcome_msg">அமரோக் என்பது தனியார் கோப்புகளை மறைப்பதற்கான ஒரு இலவச மற்றும் சுதந்திர கருவியாகும் &amp; பயன்பாடுகள்.\n\n அமரோக் ஒரு குறியாக்க மென்பொருள் அல்ல, மாறாக விசயங்களை மறைப்பதற்கான ஒரு கருவி என்பதை நினைவில் கொள்க. ரகசிய கோப்புகள் மற்றும் பயன்பாடுகளைப் பாதுகாக்க அமரோக்கைப் பயன்படுத்துவதை நாங்கள் கடுமையாக அறிவுறுத்துகிறோம்.\n\n <u> மறுப்பு: அமரோக் எந்த உத்தரவாதங்களும் நிபந்தனைகளும் இல்லாமல் வழங்கப்படுகிறது. அமரோக்கைப் பயன்படுத்துவதன் மூலம் ஏற்படக்கூடிய ஏதேனும் தீங்கு அல்லது விளைவுகளுக்குப் பயனர் முழு பொறுப்பு. </u></string>
+    <string name="welcome_msg"></string>
     <string name="block_screenshots">தொகுதி திரை சாட்கள்</string>
     <string name="invert_tile_color">ஓடு நிறத்தை தலைகீழ்</string>
     <string name="xposed_desc">கணினி மெனுக்களிலிருந்து விண்ணப்பங்களை மறைக்க அமரோக் இயக்கவும்.</string>

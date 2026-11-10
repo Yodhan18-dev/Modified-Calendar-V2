@@ -39,7 +39,7 @@
     <string name="no_update_ava">無可用更新。</string>
     <string name="manually_set_path">手動設定隱藏路徑</string>
     <string name="manually_set_path_description">注意：手動輸入路徑將跳過可用性偵測。請確保您輸入的位置存在且有權存取。</string>
-    <string name="view_github_repo">Github 倉庫</string>
+    <string name="view_github_repo"></string>
     <string name="shizuku_pre_v11">Shizuku 版本過低: 請升級您的 Shizuku 到至少 v11。</string>
     <string name="shizuku_not_working">Shizuku 服務不可用。請在您的設備上安裝 Shizuku 或 Sui。</string>
     <string name="shizuku_hidden_api_error">隱藏應用程式失敗: 無法取得 IPackageManager 介面。</string>
@@ -62,10 +62,10 @@
     <string name="obfuscate_text_file">文字文檔完全混淆</string>
     <string name="obfuscate_text_file_description">由於僅混淆文件頭對文字檔案無效，啟用此選項將對文字檔案進行完全混淆。會影響隱藏速度。</string>
     <string name="obfuscate_text_file_description_enhanced">不建議使用。增強版本的混淆文字文件，對許多疑似文字的文件也進行混淆。可能明顯減慢隱藏速度。</string>
-    <string name="join_developer_channel">Telegram 群組</string>
+    <string name="join_developer_channel"></string>
     <string name="processing">運行中…</string>
-    <string name="doc_url">https://deltazefiro.github.io/Amarok-doc/en-US/</string>
-    <string name="hideapp_doc_url">https://deltazefiro.github.io/Amarok-doc/en-US/hideapp.html</string>
+    <string name="doc_url"></string>
+    <string name="hideapp_doc_url"></string>
     <string name="alert_permission_denied">懸浮窗權限取得失敗。</string>
     <string name="alert_permission_request_title">懸浮窗權限請求</string>
     <string name="alert_permission_request_message">需要懸浮窗權限。請在設定中找到 Yodhan 18 calendar 並授予其權限。</string>
@@ -120,12 +120,8 @@
     <string name="filehider_chmod">權限變更模式</string>
     <string name="filehider_chmod_description">透過更改檔案權限隱藏。需要 Root。可瞬間完成隱藏。</string>
     <string name="filehider_nomedia">NoMedia 模式</string>
-    <string name="welcome_title">歡迎</string>
-    <string name="welcome_msg">Yodhan 18 calendar 是一款輕量級隱私保護工具，一鍵隱藏你的隱私文件和應用程式。本程式完全免費開源。
-\n
-\n請注意 Yodhan 18 calendar 並非加密程序，而只是隱藏程序。請勿使用 Yodhan 18 calendar 保護機密文件與應用程式。
-\n
-\n<u>免責聲明：切勿將 Amaork 用於重要文件或應用的隱藏。您使用 Amaork 所導致的一切損失和後果均由您自行承擔。 </u></string>
+    <string name="welcome_title"></string>
+    <string name="welcome_msg"></string>
     <string name="warning">警告</string>
     <string name="chmod_samsung_warning"><b><font fgcolor="#ff0000">有報告指出三星用戶使用此模式可能導致裝置無法啟動。 </font> 詳見 GitHub #105。請謹慎使用。 </b></string>
     <string name="auto_hide">自動隱藏</string>
@@ -172,7 +168,7 @@
     <string name="filename_only">僅混淆檔案名稱</string>
     <string name="option_unava_when_hidden">請先取消隱藏以變更此設定。</string>
     <string name="obfuscate_filename_description">混淆檔案名稱以及檔案後綴使檔案無法打開，但若指定開啟方式後仍可開啟。此為檔案隱藏的基礎功能，無法停用。</string>
-    <string name="common_error_doc_url">https://deltazefiro.github.io/Amarok-doc/en-US/hideapp.html#common-errors</string>
+    <string name="common_error_doc_url"></string>
     <string name="quick_hide_notification_content">您的隱私未隱藏。點擊進行隱藏。</string>
     <string name="workmode">工作模式</string>
     <string name="in_app_update_failed">新更新可用但自動更新失敗。請手動更新。</string>

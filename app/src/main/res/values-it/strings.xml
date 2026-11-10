@@ -45,7 +45,7 @@
     <string name="no_update_ava">È in esecuzione l\'ultima versione.</string>
     <string name="manually_set_path">Scegli manualmente</string>
     <string name="manually_set_path_description">Attenzione: Assicurati che ciò che selezioni manualmente esista effettivamente, poiché non verrà convalidato.</string>
-    <string name="view_github_repo">GitHub Repository</string>
+    <string name="view_github_repo"></string>
     <string name="not_local_storage_description">Assicurarsi che si tratti di un file locale e non virtuale.</string>
     <string name="help">Aiuto</string>
     <string name="path_duplicated">Cartella nascosta in loop</string>
@@ -76,10 +76,10 @@
     <string name="obfuscate_text_file">Offusca completamente i file di testo</string>
     <string name="obfuscate_text_file_enhanced">Offusca completamente i file di testo - Migliorato</string>
     <string name="obfuscate_text_file_description_enhanced">Non raccomandato. Una versione migliorata di \"Offusca completamente i file di testo\". Utilizzate questa opzione solo se il metodo standard si rivela inefficace. Rallenta notevolmente il processo di nascondimento.</string>
-    <string name="join_developer_channel">Gruppo Telegram</string>
+    <string name="join_developer_channel"></string>
     <string name="processing">Elaborazione…</string>
-    <string name="doc_url">https://deltazefiro.github.io/Amarok-doc/it-IT/</string>
-    <string name="common_error_doc_url">https://deltazefiro.github.io/Amarok-doc/en-US/hideapp.html#common-errors</string>
+    <string name="doc_url"></string>
+    <string name="common_error_doc_url"></string>
     <string name="alert_permission_denied">Permesso sulla visualizzazione su altre applicazioni negata.</string>
     <string name="alert_permission_request_title">È richiesta l\'autorizzazione delle finestre pop-up</string>
     <string name="workmode">Modalità di lavoro</string>
@@ -127,7 +127,7 @@
 \n</string>
     <string name="apphider_dsm_description">Nascondere le app con Delegated-Scopes-Manager.
 \nNon è consigliato a meno che il dispositivo non abbia Android 10 o versioni precedenti e non sia rootato. Potrebbe essere difettoso e funzionare in modo imprevisto. È necessario installare Icebox (o StopAPP) impostato come proprietario del dispositivo.</string>
-    <string name="hideapp_doc_url">https://deltazefiro.github.io/Amarok-doc/it-IT/hideapp.html</string>
+    <string name="hideapp_doc_url"></string>
     <string name="alert_permission_request_message">Il pulsante fluttuante ha bisogno di un permesso per le finestre pop-up. Cerca Yodhan 18 calendar nel menu delle impostazioni e concedi il permesso.</string>
     <string name="panic_button_description">Mostra un pulsante fluttuante per nascondere rapidamente app e file in caso di emergenza. Questo pulsante appare sopra tutte le altre app quando Yodhan 18 calendar non è nascosto.</string>
     <string name="failed_to_open_doc_tree_description">Oops! Il sistema non dispone di un gestore di file predefinito. Premere a lungo il pulsante \"Aggiungi cartella nascosta\" e inserisci manualmente il percorso.</string>
@@ -153,12 +153,8 @@
     <string name="quick_hide_notification_content">La tua privacy non è protetta. Clicca per nascondere.</string>
     <string name="filehider_none">Disabilitato</string>
     <string name="spotlight_do_not_show_again">NON MOSTRARE PIU\'</string>
-    <string name="welcome_msg">Yodhan 18 calendar è uno strumento gratuito e libero per nascondere file e app private.
-\n
-\nAmarok non è un software di crittografia, ma uno strumento per nascondere le cose. Si sconsiglia vivamente di utilizzare Yodhan 18 calendar per proteggere file confidenziali.
-\n
-\n<u>Disclaimer: Yodhan 18 calendar viene fornito senza alcuna garanzia o condizione. L\'utente è pienamente responsabile di qualsiasi danno o conseguenza che possa derivare dall\'uso di Yodhan 18 calendar.</u></string>
-    <string name="welcome_title">Benvenuto</string>
+    <string name="welcome_msg"></string>
+    <string name="welcome_title"></string>
     <string name="chmod_samsung_warning"><b><font fgcolor="#ff0000">Alcuni utenti Samsung hanno segnalato che l\'utilizzo di ChmodFileHider ha causato il mancato avvio dei loro dispositivi.</font> Per ulteriori informazioni consultare il bug #105 su GitHub. L\'uso dell\'app è a proprio rischio.</b></string>
     <string name="filehider_obfuscate">Modalità di offuscamento</string>
     <string name="notification_permission_request_message">Il servizio QuickHide necessita dell\'autorizzazione alla notifica per funzionare.</string>

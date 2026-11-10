@@ -74,7 +74,7 @@
     <string name="obfuscate_text_file_description">A fejlécek elfedése nincs hatással a szöveges fájlokra. A funkció engedélyezése teljes mértékben elfedi a szöveges fájlokat. Ez némileg lelassítja a rejtési folyamatot.</string>
     <string name="obfuscate_text_file_enhanced">Szövegfájlok teljes elfedése - Továbbfejlesztett</string>
     <string name="obfuscate_text_file_description_enhanced">Nem ajánlott. A \"Szövegfájlok teljes elfedése\" továbbfejlesztett változata. Csak akkor használja ezt az opciót, ha a másik módszer hatástalannak bizonyul. Jelentősen lelassítja a rejtési folyamatot.</string>
-    <string name="join_developer_channel">Telegram csoport</string>
+    <string name="join_developer_channel"></string>
     <string name="alert_permission_request_message">A lebegő gombhoz engedélyre van szükség a felugró ablakok létrehozásához. Kérjük, add meg az Anaroknak a hozzáférést a beállításoknál.</string>
     <string name="workmode">Munkamód</string>
     <string name="security">Biztonság</string>
@@ -111,7 +111,7 @@
     <string name="check_update_description">Jelenlegi verzió: %s</string>
     <string name="update">Frissítés</string>
     <string name="manually_set_path_description">Vigyázat! Győződjön meg róla, hogy a manuálisan kiválasztott fájl valóban létezik, mivel ez nem kerül hitelesítésre.</string>
-    <string name="view_github_repo">GitHub tároló</string>
+    <string name="view_github_repo"></string>
     <string name="shizuku_pre_v11">Nem támogatott Shizuku verzió: V11 előtti. Kérjük, telepítse a Shizuku v11 vagy újabb verzióját.</string>
     <string name="shizuku_hidden_api_error">Nem lehetett elrejteni az alkalmazást: Nem lehet elérni az IPackageManager API-t.</string>
     <string name="dsm_permission_denied">DSM: Engedély megtagadva</string>
@@ -121,9 +121,9 @@
     <string name="obfuscate_filename_description">A fájlnevet ember által olvashatatlanná teszi. A fájlrejtés alapvető funkciója, ami nem kapcsolható ki.</string>
     <string name="obfuscate_file_header_description">A fejlécben lévő fájlaláírás elfedése, hogy a fájl sérültnek látsszon. Megakadályozza, hogy a fájlt a \"Nyitás ezzel\" manuálisan megnyissák, de lassíthatja a fájlrejtés folyamatát.</string>
     <string name="processing">Feldolgozás…</string>
-    <string name="doc_url">https://deltazefiro.github.io/Amarok-doc/en-US/</string>
-    <string name="common_error_doc_url">https://deltazefiro.github.io/Amarok-doc/en-US/hideapp.html#common-errors</string>
-    <string name="hideapp_doc_url">https://deltazefiro.github.io/Amarok-doc/en-US/hideapp.html</string>
+    <string name="doc_url"></string>
+    <string name="common_error_doc_url"></string>
+    <string name="hideapp_doc_url"></string>
     <string name="alert_permission_denied">Más alkalmazások feletti megjelenítés engedély megtagadva.</string>
     <string name="alert_permission_request_title">Engedély szükséges a felugró ablakok létrehozásához</string>
     <string name="misc">Egyéb</string>
@@ -162,7 +162,7 @@
     <string name="filehider_obfuscate_description">Fájlnevek és aláírások álcázása. Nem szükséges root hozzáférés. Időigényes folyamat.</string>
     <string name="filehider_chmod">Chmod mód</string>
     <string name="filehider_nomedia">NoMedia mód</string>
-    <string name="welcome_title">Üdvözlünk</string>
+    <string name="welcome_title"></string>
     <string name="warning">FIGYELEM</string>
     <string name="block_screenshots">Képernyőkép megakadályozása</string>
     <string name="enable_x_hide">XHide engedélyezése</string>

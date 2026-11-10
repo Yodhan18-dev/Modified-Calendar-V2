@@ -13,7 +13,7 @@
     <string name="ok">Labi</string>
     <string name="hidden_status">Paslēpts</string>
     <string name="calendar_about">Tīrais kalendārs | autors: @Yodhan</string>
-    <string name="welcome_title">Esiet sveicināti</string>
+    <string name="welcome_title"></string>
     <string name="warning">UZMANĪBU</string>
     <string name="appearance">Izskats</string>
     <string name="enable_x_hide">Iespējot XHide</string>
@@ -38,7 +38,7 @@
     <string name="no_update_ava">Pagaidām nav pieejams neviens atjauninājums.</string>
     <string name="search">Meklēt</string>
     <string name="notification">Paziņojums</string>
-    <string name="view_github_repo">GitHub repozitorijs</string>
+    <string name="view_github_repo"></string>
     <string name="check_update_description">Pašreizējā versija: %s</string>
     <string name="shizuku_permission_denied">Shizuku: Piekļuve liegta</string>
     <string name="filename_and_header">Datnes nosaukums + Galvene</string>

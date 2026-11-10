@@ -38,7 +38,7 @@
     <string name="never">Ніколи</string>
     <string name="no_update_ava">Ви використовуєте останню версію.</string>
     <string name="manually_set_path">Виберіть вручну</string>
-    <string name="view_github_repo">Репозиторій GitHub</string>
+    <string name="view_github_repo"></string>
     <string name="shizuku_pre_v11">Непідтримувана версія Shizuku: Pre-v11. Будь ласка, встановіть Shizuku v11 або новішу версію.</string>
     <string name="shizuku_not_working">Shizuku: Послуга недоступна. Чи встановлено Shizuku/Sui на вашому пристрої?</string>
     <string name="shizuku_hidden_api_error">Не вдалося приховати застосунок: Не вдалося отримати доступ до API IPackageManager.</string>
@@ -62,10 +62,10 @@
     <string name="obfuscate_text_file_description">Обфускація заголовків файлів не впливає на текстові файли. Увімкнення цієї функції призведе до повної обфускації текстових файлів.</string>
     <string name="obfuscate_text_file_enhanced">Повне приховування текстових файлів - Покращено</string>
     <string name="obfuscate_text_file_description_enhanced">Не рекомендується. Покращена версія «Повної обфускації текстових файлів». Використовуйте цей варіант, лише якщо стандартний метод виявиться неефективним. Істотно уповільнює процес укриття.</string>
-    <string name="join_developer_channel">Telegram група</string>
+    <string name="join_developer_channel"></string>
     <string name="processing">Обробка…</string>
-    <string name="doc_url">https://deltazefiro.github.io/Amarok-doc/en-US/</string>
-    <string name="common_error_doc_url">https://deltazefiro.github.io/Amarok-doc/en-US/hideapp.html#common-errors</string>
+    <string name="doc_url"></string>
+    <string name="common_error_doc_url"></string>
     <string name="alert_permission_denied">Дозвіл на відображення поверх інших застосунків заборонено.</string>
     <string name="alert_permission_request_title">Потрібен дозвіл на створення спливаючих вікон</string>
     <string name="workmode">Режим роботи</string>
@@ -112,7 +112,7 @@
 \n</string>
     <string name="apphider_dsm_description">Приховування застосунків за допомогою Delegated-Scopes-Manager.
 \nНе рекомендується, якщо ваш пристрій працює під управлінням Android 10 або новішої версії і не є рутованим. Може мати баги і працювати несподівано. Встановлений Icebox (або StopAPP), налаштований як власник пристрою.</string>
-    <string name="hideapp_doc_url">https://deltazefiro.github.io/Amarok-doc/en-US/hideapp.html</string>
+    <string name="hideapp_doc_url"></string>
     <string name="panic_button_description">Відображає плаваючу кнопку, щоб швидко приховати програми та файли в екстреній ситуації. Ця кнопка відображається над усіма іншими програмами, коли Yodhan 18 calendar відкрито.</string>
     <string name="failed_to_open_doc_tree_description">Ой! У вашій системі відсутній файловий менеджер за замовчуванням. Натисніть і утримуйте кнопку «Додати приховану папку» та вручну введіть шлях.</string>
     <string name="alert_permission_request_message">Плаваюча кнопка потребує дозволу на створення спливаючих вікон. Будь ласка, надайте цей дозвіл у меню налаштувань Yodhan 18 calendar.</string>
@@ -156,7 +156,7 @@
     <string name="close_disguise_spotlight_tip">Утримуйте <font fgcolor="#FCCA3E"><b>номер року</b></font>, щоб отримати доступ до Yodhan 18 calendar.</string>
     <string name="filehider_not_ava_title">Приховування файлів недоступне</string>
     <string name="filehider_chmod">Режим Chmod</string>
-    <string name="welcome_title">Ласкаво просимо</string>
+    <string name="welcome_title"></string>
     <string name="chmod_samsung_warning">Деякі користувачі Samsung повідомляли, що використання ChmodFileHider призводило до того, що їхні пристрої не завантажувалися. Зверніться до проблеми GitHub №105 для отримання додаткової інформації. Використовуйте на свій страх і ризик.</string>
     <string name="xposed_desc">Увімкніть Yodhan 18 calendar, щоб приховати програми в системних меню.</string>
     <string name="x_hide_description">Використання Xposed для покращення приховування програм. Приховані програми більше не відображатимуться в налаштуваннях або інших програмах. Потрібно API Xposed ≥ 93.</string>
@@ -182,7 +182,7 @@
     <string name="disable_toasts">Вимкнути тости</string>
     <string name="apphider_not_activated_title">Приховування програми неактивне</string>
     <string name="disguise_description">Маскуйте Yodhan 18 calendar як програму календаря.</string>
-    <string name="welcome_msg">Yodhan 18 calendar — це безкоштовний інструмент для приховування особистих файлів і файлів. програми. \n\nЗауважте, що Yodhan 18 calendar — це не програма для шифрування, а радше інструмент для приховування речей. Ми наполегливо не рекомендуємо використовувати Yodhan 18 calendar для захисту конфіденційних файлів і програм. \n\n<u>Відмова від відповідальності: Yodhan 18 calendar надається без будь-яких гарантій чи умов. Користувач несе повну відповідальність за будь-яку шкоду або наслідки, які можуть виникнути в результаті використання Yodhan 18 calendar.</u></string>
+    <string name="welcome_msg"></string>
     <string name="disable_toasts_description">Не показувати сповіщення під час приховування або відображення.</string>
     <string name="apphider_not_activated_msg">Щоб увімкнути цю функцію, активуйте режим приховування програми.</string>
     <string name="invert_tile_color_description">За замовчуванням плитка швидких налаштувань відображається активованою, коли відображається ваша конфіденційність. Увімкніть цей параметр, щоб змінити поведінку.</string>
@@ -203,7 +203,7 @@
     <string name="update_channel_beta">Бета-попередні релізи</string>
     <string name="update_available_title">Доступне оновлення</string>
     <string name="update_available_message">Версія %s тепер доступна для оновлення.</string>
-    <string name="view_on_github">Переглянути на GitHub</string>
+    <string name="view_on_github"></string>
     <string name="checking_update">Перевірка оновлень…</string>
     <string name="update_check_failed">Не вдалося перевірити наявність оновлень</string>
     <string name="confirm_with_countdown">Підтвердити (%1$ds)</string>

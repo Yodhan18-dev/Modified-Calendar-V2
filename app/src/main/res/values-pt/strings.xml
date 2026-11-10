@@ -51,7 +51,7 @@
     <string name="filehider_chmod_description">Alterar permissões de ficheiros para torná-los ilegíveis. É necessário acesso root. O procedimento é imediato.</string>
     <string name="dhizuku_permission_denied">Dhizuku: Permissão negada</string>
     <string name="misc">Outros.</string>
-    <string name="common_error_doc_url">https://deltazefiro.github.io/Amarok-doc/en-US/hideapp.html#common-errors</string>
+    <string name="common_error_doc_url"></string>
     <string name="close_disguise_spotlight_tip">Mantenha pressionado o <font fgcolor="#FCCA3E"><b>Número do Ano</b></font> para aceder o Yodhan 18 calendar.</string>
     <string name="shizuku_service_not_running">Shizuku: Serviço não em execução.</string>
     <string name="panic_button_description">Exibir um botão flutuante usado para ocultar apps e ficheiros em caso de emergência. Ele é exibido sobre todos os outras apps. O botão só aparece no estado não oculto.</string>
@@ -64,8 +64,8 @@
     <string name="dhizuku_pre_v5">Dhizuku: Versão do Dhizuku não suportada. Por favor, atualize o Dhizuku para a versão 5 ou superior.</string>
     <string name="filename_only">Apenas nomes de ficheiro</string>
     <string name="more_settings">Mais Opções</string>
-    <string name="hideapp_doc_url">https://deltazefiro.github.io/Amarok-doc/en-US/hideapp.html</string>
-    <string name="join_developer_channel">Grupo do Telegram</string>
+    <string name="hideapp_doc_url"></string>
+    <string name="join_developer_channel"></string>
     <string name="current_mode">Modo Atual: %s</string>
     <string name="filehider_obfuscate_description">Ofuscar nomes de ficheiros e assinaturas de ficheiros. Não é necessário acesso root. Pode levar algum tempo para processar.</string>
     <string name="update">Atualizar</string>
@@ -106,18 +106,14 @@
     <string name="filehider_none">Desativado</string>
     <string name="about">Sobre</string>
     <string name="spotlight_do_not_show_again">NÃO MOSTRAR NOVAMENTE</string>
-    <string name="welcome_msg">Yodhan 18 calendar é uma ferramenta gratuita e de código aberto para ocultar ficheiros e aplicações privadas.
-\n
-\nPor favor, observe que o Yodhan 18 calendar não é um software de criptografia, mas sim uma ferramenta para ocultar coisas. Recomendamos enfaticamente que evite usar o Yodhan 18 calendar para proteger ficheiros e aplicações confidenciais.
-\n
-\n<u>Avisos legais: O Yodhan 18 calendar é fornecido sem garantias ou condições. O utilizador é totalmente responsável por qualquer dano ou consequência que possa surgir do uso do Yodhan 18 calendar.</u></string>
+    <string name="welcome_msg"></string>
     <string name="storage_permission_request_title">Permissão de armazenamento necessária</string>
     <string name="shizuku_permission_denied">Shizuku: Permissão negada</string>
     <string name="manually_set_path_description">Cuidado: Garanta que o que selecionar manualmente realmente exista, pois isso não é validado.</string>
     <string name="filename_and_header">Nome de ficheiro + Cabeçalho</string>
     <string name="obfuscate_filename">Obfuscar nomes de ficheiros</string>
     <string name="notification_channel_name">Serviço de Ocultação Rápida</string>
-    <string name="welcome_title">Bem-vindo</string>
+    <string name="welcome_title"></string>
     <string name="shizuku_not_working">Shizuku: Serviço indisponível. Instalou o Shizuku/Sui no seu dispositivo?</string>
     <string name="unhide">Revelar</string>
     <string name="hide">Ocultar</string>
@@ -134,7 +130,7 @@
     <string name="confirm">Confirmar</string>
     <string name="follow_system">(Seguir o sistema)</string>
     <string name="apphider_dhizuku">Modo Dhizuku</string>
-    <string name="doc_url">https://deltazefiro.github.io/Amarok-doc/en-US/</string>
+    <string name="doc_url"></string>
     <string name="password_incorrect">Palavra-passe incorreta.</string>
     <string name="language">Idioma</string>
     <string name="alert_permission_request_message">O botão flutuante precisa de permissão para abrir janelas pop-up. Por favor, encontre o Yodhan 18 calendar no menu de configurações e conceda essa permissão.</string>
@@ -173,7 +169,7 @@
     <string name="filehider_chmod">Modo Chmod</string>
     <string name="enable_dynamic_color">Cores dinâmicas</string>
     <string name="invalid_dsm_provider">DSM: Provedor DSM inválido. Instalou e ativou o provedor DSM no seu dispositivo?</string>
-    <string name="view_github_repo">Repositório GitHub</string>
+    <string name="view_github_repo"></string>
     <string name="display_root_apps">Mostrar apps relacionados a root</string>
     <string name="hide_amarok_icon">Ocultar ícone</string>
     <string name="auto_hide">Ocultar automaticamente</string>

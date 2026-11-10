@@ -62,13 +62,13 @@
     <string name="update_channel_beta">Beta pre-releases</string>
     <string name="update_available_title">Update Available</string>
     <string name="update_available_message">Version %s is now available for update.</string>
-    <string name="view_on_github">View on GitHub</string>
+    <string name="view_on_github"></string>
     <string name="checking_update">Checking for updates…</string>
     <string name="update_check_failed">Failed to check for updates</string>
     <string name="manually_set_path">Pick manually</string>
     <string name="manually_set_path_description">Caution: Ensure the what you select manually actually exists, as this is not validated.</string>
-    <string name="view_github_repo">GitHub repository</string>
-    <string name="view_github_repo_description" translatable="false">deltazefiro/Yodhan 18 calendar-Hider</string>
+    <string name="view_github_repo"></string>
+    <string name="view_github_repo_description" translatable="false"></string>
     <string name="shizuku_pre_v11">Unsupported Shizuku version: Pre-v11. Please install Shizuku v11 or later.</string>
     <string name="shizuku_permission_denied">Shizuku: Permission denied</string>
     <string name="shizuku_not_working">Shizuku: Service unavailable. Have you installed Shizuku/Sui on your device?</string>
@@ -96,12 +96,12 @@
     <string name="obfuscate_text_file_description">Obfuscating file headers has no effect on text files. Enabling this function will fully obfuscate text files.</string>
     <string name="obfuscate_text_file_enhanced">Fully obfuscate text files - Enhanced</string>
     <string name="obfuscate_text_file_description_enhanced">Not recommended. An enhanced version of \"Fully obfuscate text files\". Use this option only if the standard method proves ineffective. Significantly slows down the hiding process.</string>
-    <string name="join_developer_channel">Telegram group</string>
-    <string name="developer_channel_telegram" translatable="false">Telegram @amarok_dev</string>
+    <string name="join_developer_channel"></string>
+    <string name="developer_channel_telegram" translatable="false"></string>
     <string name="processing">Processing…</string>
-    <string name="doc_url">https://deltazefiro.github.io/Amarok-doc/en-US/</string>
-    <string name="common_error_doc_url">https://deltazefiro.github.io/Amarok-doc/en-US/hideapp.html#common-errors</string>
-    <string name="hideapp_doc_url">https://deltazefiro.github.io/Amarok-doc/en-US/hideapp.html</string>
+    <string name="doc_url"></string>
+    <string name="common_error_doc_url"></string>
+    <string name="hideapp_doc_url"></string>
     <string name="alert_permission_denied">Permission to display over other apps denied.</string>
     <string name="alert_permission_request_title">Permission to spawn pop-up windows required</string>
     <string name="alert_permission_request_message">The floating button needs permission to spawn pop-up windows. Please grant this permission in the settings menu under Yodhan 18 calendar.</string>
@@ -182,8 +182,8 @@
     <string name="filehider_chmod_description">Change file permissions to make them unreadable. Root access required. The procedure is immediate.</string>
     <string name="filehider_nomedia">NoMedia Mode</string>
     <string name="filehider_nomedia_description">Simply adds .nomedia to folders. No root access required.</string>
-    <string name="welcome_title">Welcome</string>
-    <string name="welcome_msg">Yodhan 18 calendar is a free and freedom tool for hiding private files &amp; applications.\n\nPlease note that Yodhan 18 calendar is not an encryption software, but rather a tool for hiding things. We strongly advise against using Yodhan 18 calendar to protect confidential files and applications.\n\n<u>Disclaimers: Yodhan 18 calendar is provided without any warranties or conditions. The user is fully responsible for any harm or consequences that may arise from using Yodhan 18 calendar.</u></string>
+    <string name="welcome_title"></string>
+    <string name="welcome_msg"></string>
     <string name="warning">WARNING</string>
     <string name="chmod_samsung_warning">Some Samsung users have reported that using ChmodFileHider caused their devices to fail to boot. Refer to GitHub issue #105 for more information. Use at your own risk.</string>
     <string name="appearance">Appearance</string>

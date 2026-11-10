@@ -28,7 +28,7 @@
     <string name="usage_description">Открыть справочный центр.</string>
     <string name="more_settings">Дополнительно</string>
     <string name="shizuku_service_not_running">Shizuku: Служба не запущена.</string>
-    <string name="view_github_repo">Репозиторий GitHub</string>
+    <string name="view_github_repo"></string>
     <string name="never">Никогда</string>
     <string name="manually_set_path">Выбрать вручную</string>
     <string name="apphider_shizuku_description">Скрытие с помощью Shizuku (или Sui).
@@ -81,7 +81,7 @@
     <string name="filename_and_header">Имя файла + Заголовок</string>
     <string name="obfuscate_text_file">Полная обфускация текстовых файлов</string>
     <string name="obfuscate_text_file_enhanced">Полная обфускация текстовых файлов - Расширенная</string>
-    <string name="join_developer_channel">Группа в Telegram</string>
+    <string name="join_developer_channel"></string>
     <string name="processing">Обработка…</string>
     <string name="search">Поиск</string>
     <string name="alert_permission_request_message">Плавающей кнопке требуется разрешение на создание всплывающих окон. Пожалуйста, дайте это разрешение в меню настроек Yodhan 18 calendar.</string>
@@ -116,9 +116,9 @@
     <string name="set_password">Установить пароль</string>
     <string name="show_about">Показать о</string>
     <string name="option_unava_when_hidden">Настройки доступны только после отключения скрытия.</string>
-    <string name="doc_url">https://deltazefiro.github.io/Amarok-doc/en-US/</string>
-    <string name="common_error_doc_url">https://deltazefiro.github.io/Amarok-doc/en-US/hideapp.html#common-errors</string>
-    <string name="hideapp_doc_url">https://deltazefiro.github.io/Amarok-doc/en-US/hideapp.html</string>
+    <string name="doc_url"></string>
+    <string name="common_error_doc_url"></string>
+    <string name="hideapp_doc_url"></string>
     <string name="force_unhide">Принудительно убрать скрытие</string>
     <string name="performing_force_unhide">Производится принудительное удаление скрытия. Сядьте поудобнее.</string>
     <string name="filter">Фильтр</string>
@@ -149,7 +149,7 @@
     <string name="filehider_obfuscate">Режим Обфускации</string>
     <string name="filehider_chmod">Режим Chmod</string>
     <string name="filehider_nomedia_description">Просто добавляет .nomedia в папки. Не требуется корневой доступ.</string>
-    <string name="welcome_title">Добро пожаловать</string>
+    <string name="welcome_title"></string>
     <string name="unlock">Разблокировать</string>
     <string name="biometric_auth_description">Используйте биометрическую аутентификацию устройства для доступа к Yodhan 18 calendar, если она доступна.</string>
     <string name="unlock_required">Требуется разблокировка</string>
@@ -164,11 +164,7 @@
     <string name="biometric_auth">Биометрическая аутентификация</string>
     <string name="app_name_calendar">calendar</string>
     <string name="filehider_obfuscate_description">Обфусцируйте названия и сигнатуры файлов. Не требуется root-доступ. Может потребоваться некоторое время для обработки.</string>
-    <string name="welcome_msg">Yodhan 18 calendar — это бесплатный и свободный инструмент для скрытия приватных файлов &amp; приложений.
-\n
-\nПожалуйста, имейте ввиду, что Yodhan 18 calendar — это не приложение для шифрования, а скорее инструмент для скрытия всякого. Мы настоятельно не рекомендуем использовать Yodhan 18 calendar для защиты конфиденциальных файлов и приложений.
-\n
-\n<u>Дисклеймер: Yodhan 18 calendar предоставляется без каких-либо гаррантий и условий. Пользователь всецело несёт ответственность за любой вред или последствия, которые могут последовать за использованием Yodhan 18 calendar.</u></string>
+    <string name="welcome_msg"></string>
     <string name="filehider_chmod_description">Измените права доступа к файлам, чтобы сделать их нечитаемыми. Требуется корневой доступ. Процедура выполняется немедленно.</string>
     <string name="filehider_nomedia">Режим NoMedia</string>
     <string name="appearance">Внешний вид</string>

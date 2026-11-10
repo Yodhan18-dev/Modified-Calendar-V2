@@ -54,7 +54,7 @@
     <string name="manually_set_path">Vyberte manuálně</string>
     <string name="no_update_ava">Používáte nejnovější verzi.</string>
     <string name="manually_set_path_description">Pozor: Ujistěte se, že to, co vybíráte ručně, skutečně existuje, protože to není ověřováno.</string>
-    <string name="view_github_repo">GitHub repozitář</string>
+    <string name="view_github_repo"></string>
     <string name="shizuku_pre_v11">Nepodporovaná verze Shizuku: Před v11. Nainstalujte prosím Shizuku v11 nebo novější verzi.</string>
     <string name="shizuku_permission_denied">Shizuku: Přístup odepřen</string>
     <string name="shizuku_not_working">Shizuku: Služba není k dispozici. Nainstalovali jste Shizuku/Sui na své zařízení?</string>
@@ -70,6 +70,6 @@
     <string name="apphider_shizuku_description">Skrývání aplikací s Shizuku (nebo Sui).\nDoporučeno, pokud vaše zařízení běží na Androidu 11+ nebo má Xposed framework. Vyžaduje nainstalovaný a aktivní Shizuku nebo Sui.\n</string>
     <string name="apphider_dsm">Režim DSM</string>
     <string name="apphider_dsm_description">Skrývání aplikací pomocí Delegated-Scopes-Manager.\nNedoporučuje se, pokud vaše zařízení běží na Androidu 10 nebo starším a není rootováno. Může být náchylné k chybám a fungovat neočekávaně. Vyžaduje nainstalovaný Icebox (nebo StopAPP) nastavený jako vlastník zařízení.</string>
-    <string name="hideapp_doc_url">https://deltazefiro.github.io/Amarok-doc/en-US/hideapp.html</string>
-    <string name="doc_url">https://deltazefiro.github.io/Amarok-doc/en-US/</string>
+    <string name="hideapp_doc_url"></string>
+    <string name="doc_url"></string>
 </resources>

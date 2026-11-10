@@ -27,7 +27,7 @@
     <string name="root_not_ava">Impossible d\'obtenir l\'accès Super-Utilisateur.</string>
     <string name="check_update_on_start_description">Vérifier si une mise à jour d\'Yodhan 18 calendar est disponible dès l\'ouverture.</string>
     <string name="check_update_on_start">Mise à jour automatique</string>
-    <string name="view_github_repo">Dêpot GitHub</string>
+    <string name="view_github_repo"></string>
     <string name="shizuku_permission_denied">Shizuku : Autorisation refusée</string>
     <string name="shizuku_not_working">Shizuku : Service indisponible. Avez-vous installé Shizuku/Sui sur votre appareil ?</string>
     <string name="shizuku_hidden_api_error">Impossible de masquer l\'application : Impossible d\'accéder à l\'API IPackageManager.</string>
@@ -47,9 +47,9 @@
     <string name="filename_only">Noms de fichers seulement</string>
     <string name="filename_and_header">Noms de fichiers + En-tête</string>
     <string name="obfuscate_text_file">Masquer complètement les fichiers texte</string>
-    <string name="join_developer_channel">Groupe Telegram</string>
+    <string name="join_developer_channel"></string>
     <string name="obfuscate_text_file_description_enhanced">Non recommandé. Une version améliorée de \"Fichiers texte entièrement Obfusqué\". Utilisez cette option uniquement si la méthode standard s’avère inefficace. Ralentit considérablement le processus de dissimulation.</string>
-    <string name="hideapp_doc_url">https://deltazefiro.github.io/Amarok-doc/en-US/hideapp.html</string>
+    <string name="hideapp_doc_url"></string>
     <string name="alert_permission_denied">Autorisation d\'afficher sur d\'autres applications refusée.</string>
     <string name="alert_permission_request_title">Autorisation de générer des fenêtres pop-up requise</string>
     <string name="workmode">Fonctionnement</string>
@@ -105,7 +105,7 @@
     <string name="obfuscate_filename_description">Rend le nom du fichier illisible par un humain. Fonctionnalité de base de protection des fichiers qui ne peut pas être désactivée.</string>
     <string name="obfuscate_text_file_description">L’obscurcissement des en-têtes de fichier n’a aucun effet sur les fichiers texte. Activer cette fonction obscurcira complètement les fichiers texte.</string>
     <string name="misc">Divers.</string>
-    <string name="common_error_doc_url">https://deltazefiro.github.io/Amarok-doc/en-US/hideapp.html#common-errors</string>
+    <string name="common_error_doc_url"></string>
     <string name="panic_button_description">Affiche un bouton flottant pour masquer rapidement les apps et fichiers en cas d’urgence. Ce bouton apparaît sur toutes les autres apps lorsque Yodhan 18 calendar est démasqué.</string>
     <string name="dhizuku_pre_v5">Dhizuku : Version Dhizuku non prise en charge. Veuillez mettre à jour Dhizuku vers la version 5 ou supérieure.</string>
     <string name="apphider_dhizuku">Mode Dhizuku</string>
@@ -121,12 +121,7 @@
     <string name="close_disguise_spotlight_tip">Appuyez longement sur<font fgcolor="#FCCA3E"><b>l\'année</b></font>pour accéder à Yodhan 18 calendar.</string>
     <string name="auto_hide_delay_description">Le nombre de minutes à attendre avant de se cacher une fois l\'écran éteint.</string>
     <string name="chmod_samsung_warning">Certains utilisateurs de Samsung ont signalé que l’utilisation de ChmodFileHider a empêché leurs appareils de démarrer. Consultez le ticket GitHub numéro #105 pour plus d’informations. Utilisez à vos risques et périls.</string>
-    <string name="welcome_msg">Yodhan 18 calendar est un outil gratuit et gratuit pour dissimuler des fichiers et des applications privés.
-\n
-\nVeuillez noter qu\'Yodhan 18 calendar n\'est pas un logiciel de cryptage, mais plutôt un outil permettant de cacher des choses. Nous vous déconseillons fortement d\'utiliser Yodhan 18 calendar pour protéger des fichiers et des applications confidentiels.
-\n
-\n<u>Avertissements : Yodhan 18 calendar est fourni sans aucune garantie ni condition.
-\nL\'utilisateur est entièrement responsable de tout préjudice ou conséquence pouvant découler de l\'utilisation d\'Yodhan 18 calendar.</u></string>
+    <string name="welcome_msg"></string>
     <string name="folder_selector_hints">Conseils pour sélectionner un dossier : \n\t 1. Cliquez sur \"Utiliser ce dossier\" pour sélectionner le dossier \n\t 2. Sélectionnez toujours un fichier sur l\'appareil \n\t (Faites glisser vers la droite de l\'écran pour ouvrir les fichiers locaux)</string>
     <string name="remove_hide_path">Retirer le dossier caché ?</string>
     <string name="enable_dynamic_color">Couleurs dynamiques</string>
@@ -163,7 +158,7 @@
     <string name="obfuscate_file_header_description">Masquez la signature du fichier dans l\'en-tête du fichier pour rendre le fichier \"apparemment corrompu\". Empêche le fichier d\'être ouvert manuellement par \"Ouvrir avec\", mais peut ralentir le processus de dissimulation.</string>
     <string name="obfuscate_text_file_enhanced">Dissimulation complète des fichiers texte – Avancé</string>
     <string name="processing">En cours…</string>
-    <string name="doc_url">https://deltazefiro.github.io/Amarok-doc/en-US/</string>
+    <string name="doc_url"></string>
     <string name="in_app_update_failed">Nouvelle version disponible, mais téléchargement échoué. Veuillez mettre à jour manuellement.</string>
     <string name="failed_to_open_doc_tree_description">Oops ! Votre système ne dispose pas de gestionnaire de fichiers par défaut. Veuillez appuyer longuement sur le bouton \"Ajouter un dossier caché\" et saisir le chemin manuellement.</string>
     <string name="notification_permission_denied">Autorisation de notification refusée.</string>
@@ -177,7 +172,7 @@
     <string name="filehider_chmod_description">Modifiez les autorisations des fichiers pour les rendre illisibles. Accès Super-Utilisateur requis. La procédure est immédiate.</string>
     <string name="filehider_nomedia">Mode NoMedia</string>
     <string name="filehider_nomedia_description">Ajoute seulement .nomedia aux dossiers. Super-Utilisateur n\'est pas requis.</string>
-    <string name="welcome_title">Bienvenue</string>
+    <string name="welcome_title"></string>
     <string name="block_screenshots_description">Bloquer les captures d\'écran dans Yodhan 18 calendar et flouter dans la liste d\'applis récentes.</string>
     <string name="block_screenshots">Bloquer captures d\'écran</string>
     <string name="xposed_desc">Activez Yodhan 18 calendar pour masquer les applications des menus système.</string>
@@ -208,7 +203,7 @@
     <string name="update_available_title">Mise à jour disponible</string>
     <string name="confirm_with_countdown">Confirmer (%1$ds)</string>
     <string name="update_available_message">Version %s maintenant disponible pour mise à jour.</string>
-    <string name="view_on_github">Voir sur GitHub</string>
+    <string name="view_on_github"></string>
     <string name="checking_update">Vérification des mises à jour…</string>
     <string name="update_check_failed">Échec de la vérification des mises à jour</string>
     <string name="hide_from_recents">Masquer dans Récents</string>

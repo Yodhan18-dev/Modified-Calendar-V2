@@ -25,12 +25,12 @@
     <string name="password_incorrect">Vale salasõna.</string>
     <string name="usage">Kasutus</string>
     <string name="manually_set_path">Vali käsitsi</string>
-    <string name="doc_url">https://deltazefiro.github.io/Amarok-doc/en-US/</string>
+    <string name="doc_url"></string>
     <string name="filter">Filtreeri</string>
     <string name="obfuscate_filename">Häma failinimedega</string>
     <string name="workmode">Töörežiim</string>
     <string name="appearance">Välimus</string>
-    <string name="view_github_repo">Lähtekoodi hoidla GitHubis</string>
+    <string name="view_github_repo"></string>
     <string name="learn_more">Ülesseadmise juhend</string>
     <string name="storage_permission_request_message">Failide peitmiseks anna Amarokile õigus kasutada välismälu.</string>
     <string name="storage_permission_denied">Mäluruumi kasutamise õigused puuduvad. Failide peitmine pole võimalik</string>
@@ -54,7 +54,7 @@
     <string name="obfuscate_filename_description">Failinimed muutuvad inimese jaoks loetamatuteks. See on failide peitmise baasfunktsionaalsus, mida ei saa välja lülitada.</string>
     <string name="obfuscate_file_header">Häma failide päisetega</string>
     <string name="filename_and_header">Failinimi + päis</string>
-    <string name="hideapp_doc_url">https://deltazefiro.github.io/Amarok-doc/en-US/hideapp.html</string>
+    <string name="hideapp_doc_url"></string>
     <string name="in_app_update_failed">Uus versioon on saadaval, aga allalaadimine ei õnnestunud. Palun uuenda käsitsi.</string>
     <string name="failed_to_open_doc_tree">Süsteemi failivalija avamine ei õnnestunud</string>
     <string name="search">Otsi</string>
@@ -63,7 +63,7 @@
     <string name="unlock_required">Lukustuse eemaldamine on vajalik</string>
     <string name="language">Keel</string>
     <string name="app_name_calendar">calendar</string>
-    <string name="welcome_title">Tere tulemast</string>
+    <string name="welcome_title"></string>
     <string name="remove_hide_path">Kas eemaldame peidetud kausta?</string>
     <string name="help">Abiteave</string>
     <string name="update">Uuenda</string>
@@ -73,12 +73,12 @@
     <string name="notification_channel_name">Kiirpeitmise teenus</string>
     <string name="processing">Töötleme…</string>
     <string name="more_settings">Lisaseadistused</string>
-    <string name="common_error_doc_url">https://deltazefiro.github.io/Amarok-doc/en-US/hideapp.html#common-errors</string>
+    <string name="common_error_doc_url"></string>
     <string name="misc">Varia</string>
     <string name="set_password">Lisa salasõna</string>
     <string name="filehider_none">Pole kasutusel</string>
     <string name="warning">HOIATUS</string>
-    <string name="join_developer_channel">Telegrami grupp</string>
+    <string name="join_developer_channel"></string>
     <string name="hidden_toast">Peidetud</string>
     <string name="apphider_dhizuku">Dhizuku režiim</string>
     <string name="analytics_description">Saada arendajatele analüüsimiseks anonüümseid rakenduse kokkujooksmise aruandeid.</string>
@@ -134,7 +134,7 @@
     <string name="update_channel_beta">Beetaversioonid</string>
     <string name="update_available_title">Rakenduse uuendus on saadaval</string>
     <string name="update_available_message">Uuendamiseks on saadaval versioon %s.</string>
-    <string name="view_on_github">Vaata GitHubis</string>
+    <string name="view_on_github"></string>
     <string name="checking_update">Kontrollin uuendusi…</string>
     <string name="update_check_failed">Uuenduste kontrollimine ei õnnestunud</string>
     <string name="force_unhide">Lõpeta peitmine sundkorras</string>

@@ -21,8 +21,6 @@ android {
         versionName "0.10.1"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
-
-        buildConfigField "String", "GITHUB_CHECK_UPDATE_URL", '"https://api.github.com/repos/deltazefiro/Amarok-Hider/releases"'
     }
 
     if (project.hasProperty("RELEASE_STORE_FILE")) {

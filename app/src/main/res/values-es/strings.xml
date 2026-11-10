@@ -22,10 +22,10 @@
     <string name="obfuscate_text_file_description">La ofuscación de los encabezados de archivo no tiene efecto en los archivos de texto. Al habilitar esta función, los archivos de texto se ofuscarán por completo.</string>
     <string name="obfuscate_text_file_enhanced">Ofuscación completa de archivos de texto - Mejorado</string>
     <string name="obfuscate_text_file_description_enhanced">No recomendado. Una versión mejorada de \"Ofuscar completamente los archivos de texto\". Utilice esta opción solo si el método estándar resulta ineficaz. Ralentiza significativamente el proceso de ocultación.</string>
-    <string name="join_developer_channel">Grupo de Telegram</string>
+    <string name="join_developer_channel"></string>
     <string name="processing">Procesando…</string>
-    <string name="doc_url">https://deltazefiro.github.io/Amarok-doc/en-US/</string>
-    <string name="common_error_doc_url">https://deltazefiro.github.io/Amarok-doc/en-US/hideapp.html#common-errors</string>
+    <string name="doc_url"></string>
+    <string name="common_error_doc_url"></string>
     <string name="alert_permission_denied">Permiso para mostrar sobre otras apps denegado.</string>
     <string name="alert_permission_request_title">Se requiere permiso para generar ventanas emergentes</string>
     <string name="workmode">Modo de trabajo</string>
@@ -64,7 +64,7 @@
     <string name="unhidden_toast">No oculto</string>
     <string name="hide_app_failed_admin_inactive">No se puede ocultar la aplicación: Proveedor DSM no activo.</string>
     <string name="manually_set_path">Elegir manualmente</string>
-    <string name="view_github_repo">Repositorio GitHub</string>
+    <string name="view_github_repo"></string>
     <string name="more_settings">Más ajustes</string>
     <string name="show_debug_info">Información de depuración</string>
     <string name="debug_info_description">Muestra información para ayudar a solucionar problemas.</string>
@@ -117,7 +117,7 @@
     <string name="obfuscate_filename">Ofuscar nombres de archivo</string>
     <string name="cancel">Cancelar</string>
     <string name="failed_to_open_doc_tree_description">¡Ups! Tu sistema no tiene un administrador de archivos predeterminado. Mantén presionado el botón \"Agregar carpeta oculta\" e ingresa la ruta manualmente.</string>
-    <string name="hideapp_doc_url">https://deltazefiro.github.io/Amarok-doc/en-US/hideapp.html</string>
+    <string name="hideapp_doc_url"></string>
     <string name="alert_permission_request_message">El botón flotante necesita permiso para generar ventanas emergentes. Concede este permiso en el menú de configuración de Yodhan 18 calendar.</string>
     <string name="quick_hide_notification_content">Tu privacidad no está oculta. Haz clic para ocultarla.</string>
     <string name="unlock">Desbloquear</string>
@@ -164,12 +164,8 @@
     <string name="filehider_obfuscate_description">Ofusca los nombres y las firmas de los archivos. No se requiere acceso root. Puede tardar algún tiempo en procesarse.</string>
     <string name="filehider_nomedia">Modo NoMedia</string>
     <string name="filehider_none">Desactivado</string>
-    <string name="welcome_msg">Yodhan 18 calendar es una herramienta gratuita y libre para ocultar los archivos privados &amp; aplicaciones.
-\n
-\nPor favor, ten en cuenta que Yodhan 18 calendar no es un software de encriptación, sino una herramienta para ocultar las cosas. Desaconsejamos encarecidamente el uso de Yodhan 18 calendar para proteger los archivos y las aplicaciones confidenciales.
-\n
-\n<u>Disclaimers: Yodhan 18 calendar se provee sin garantías ni condiciones. El usuario es completamente responsable de cualquier daño o consecuencia que pueda surgir del uso de Yodhan 18 calendar.</u></string>
-    <string name="welcome_title">Bienvenido</string>
+    <string name="welcome_msg"></string>
+    <string name="welcome_title"></string>
     <string name="filehider_obfuscate">Modo ofuscación</string>
     <string name="filehider_not_ava_title">Ocultar archivos no disponible</string>
     <string name="filehider_chmod">Modo Chmod</string>
@@ -200,7 +196,7 @@
     <string name="update_channel_beta">Pre-lanzamientos beta</string>
     <string name="update_available_title">Actualización Disponible</string>
     <string name="update_available_message">La versión %s ahora está disponible para actualizar.</string>
-    <string name="view_on_github">Vista en GitHub</string>
+    <string name="view_on_github"></string>
     <string name="checking_update">Comprobando actualizaciones…</string>
     <string name="update_check_failed">Ha fallado al comprobar actualizaciones</string>
     <string name="display_root_apps">Exhibe apps relacionadas con root</string>

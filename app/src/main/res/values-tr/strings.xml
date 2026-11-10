@@ -42,7 +42,7 @@
     <string name="never">Hiçbir zaman</string>
     <string name="no_update_ava">Son sürümü kullanıyorsunuz.</string>
     <string name="manually_set_path">El ile seç</string>
-    <string name="view_github_repo">GitHub repo’su</string>
+    <string name="view_github_repo"></string>
     <string name="shizuku_pre_v11">Desteklenmeyen Shizuku sürümü: v11 ve öncesi. Lütfen v11 veya üzeri bir Shizuku kullanın.</string>
     <string name="shizuku_permission_denied">Shizuku: İzin reddedildi</string>
     <string name="shizuku_not_working">Shizuku: Servis kullanılamıyor. Shizuku/Sui cihazınızda kurulu mu?</string>
@@ -67,10 +67,10 @@
     <string name="obfuscate_text_file">Metin dosyalarını tamamen gizle</string>
     <string name="obfuscate_text_file_description">Deneysel özellik. Dosya başlıklarını gizlemenin metin dosyaları üzerinde hiçbir etkisi yoktur. Bu işlevi etkinleştirmek, metin dosyalarını tamamen gizleyecektir. Gizleme işlemi biraz olsun yavaşlayacaktır.</string>
     <string name="obfuscate_text_file_enhanced">Metin dosyalarını tamamen gizle - Gelişmiş</string>
-    <string name="join_developer_channel">Telegram grubu</string>
+    <string name="join_developer_channel"></string>
     <string name="processing">İşleniyor…</string>
-    <string name="doc_url">https://deltazefiro.github.io/Amarok-doc/en-US/</string>
-    <string name="common_error_doc_url">https://deltazefiro.github.io/Amarok-doc/en-US/hideapp.html#common-errors</string>
+    <string name="doc_url"></string>
+    <string name="common_error_doc_url"></string>
     <string name="alert_permission_denied">Diğer uygulamaların üzerinde gösterme izni reddedildi.</string>
     <string name="alert_permission_request_title">Açılır pencereler oluşturmak için izin gerekli</string>
     <string name="workmode">Çalışma yöntemi</string>
@@ -111,7 +111,7 @@
     <string name="panic_button_description">Acil durumlarda uygulamaları ve dosyaları gizlemek için kullanılan yüzen bir buton görüntüler. Yodhan 18 calendar gizli değilken diğer tüm uygulamaların üzerinde gösterilir.</string>
     <string name="obfuscate_file_header_description">Dosyayı “bozulmuş” olarak göstermek için dosya başlığındaki imzayı gizler. Dosyanın “birlikte aç” ile açılmasını engellemeye yarar ancak dosya gizleme işlemini yavaşlatabilir.</string>
     <string name="obfuscate_text_file_description_enhanced">Tavsiye edilmez. “Metin dosyalarını tamamen gizle”nin geliştirilmiş halidir. Bu seçeneği yalnızca normal yöntem hiçbir işe yaramazsa kullanın. Gizleme işlemini önemli ölçüde yavaşlatır.</string>
-    <string name="hideapp_doc_url">https://deltazefiro.github.io/Amarok-doc/en-US/hideapp.html</string>
+    <string name="hideapp_doc_url"></string>
     <string name="alert_permission_request_message">Yüzen butonun açılır pencereler oluşturması için izne ihtiyacı var. Lütfen ayarlar menüsünden Yodhan 18 calendar’u bulun ve izin verin.</string>
     <string name="notification">Bildirim</string>
     <string name="notification_permission_denied">Bildirim izni reddedildi.</string>
@@ -163,15 +163,11 @@
     <string name="auto_hide_description">Ekran kapandığında otomatik olarak gizler.</string>
     <string name="auto_hide_delay">Otomatik gizleme gecikmesi</string>
     <string name="filehider_obfuscate_description">Dosya isimlerini ve imzalarını boz. Root erişimi gerektirmez. İşlenmesi biraz zaman alabilir.</string>
-    <string name="welcome_title">Hoşgeldiniz</string>
+    <string name="welcome_title"></string>
     <string name="filehider_chmod_description">Okunamaz olmaları için dosyaların izinlerini değiştir. Root erişimi gerektirir. İşleme anlık gerçekleşir.</string>
     <string name="filehider_nomedia">NoMedia Modu</string>
     <string name="filehider_nomedia_description">Sadece klasörlere .nomedia ekle. Root erişimi gerektirmez.</string>
-    <string name="welcome_msg">Yodhan 18 calendar, özel dosyaları ve uygulamaları gizlemek için ücretsiz ve özgürlük sağlayan bir araçtır.
-\n
-\nAmarok\'un bir şifreleme yazılımı değil, bir şeyleri gizlemeye yönelik bir araç olduğunu lütfen unutmayın. Gizli dosyaları ve uygulamaları korumak için Yodhan 18 calendar\'u kullanmamanızı önemle tavsiye ederiz.
-\n
-\n<u>Sorumluluk reddi beyanları: Yodhan 18 calendar herhangi bir garanti veya koşul olmaksızın sağlanır. Kullanıcı her türlü sorumluluktan tamamen sorumludur.</u></string>
+    <string name="welcome_msg"></string>
     <string name="auto_hide_delay_description">Ekran kapandığında gizlemeden önceki dakika gecikmesi.</string>
     <string name="block_screenshots_description">Yodhan 18 calendar\'ta ekran resimlerini engelle ve son uygulamalarda bulanıklaştır.</string>
     <string name="xposed_desc">Uygulamaları sistem menülerinde gizlemek için Yodhan 18 calendar\'u etkinleştir.</string>

@@ -1,7 +1,5 @@
 package deltazero.amarok.ui.settings;
 
-import android.content.Intent;
-import android.net.Uri;
 import android.widget.Toast;
 
 import androidx.annotation.NonNull;
@@ -53,30 +51,6 @@ public class AboutCategory extends BaseCategory {
             return true;
         });
         addPreference(forceUnhidePref);
-
-        var githubRepoPref = new Preference(activity);
-        githubRepoPref.setTitle(R.string.view_github_repo);
-        githubRepoPref.setIcon(R.drawable.code_black_24dp);
-        githubRepoPref.setSummary(R.string.view_github_repo_description);
-        githubRepoPref.setIntent(new Intent(Intent.ACTION_VIEW,
-                Uri.parse("https://github.com/deltazefiro/Amarok-Hider")));
-        addPreference(githubRepoPref);
-
-        var telegramGroupPref = new Preference(activity);
-        telegramGroupPref.setTitle(R.string.join_developer_channel);
-        telegramGroupPref.setIcon(R.drawable.ic_telegram);
-        telegramGroupPref.setSummary(R.string.developer_channel_telegram);
-        telegramGroupPref.setIntent(new Intent(Intent.ACTION_VIEW,
-                Uri.parse("https://t.me/amarok_dev")));
-        addPreference(telegramGroupPref);
-
-        var usagePref = new Preference(activity);
-        usagePref.setTitle(R.string.usage);
-        usagePref.setIcon(R.drawable.help_outline_black_24dp);
-        usagePref.setSummary(R.string.usage_description);
-        usagePref.setIntent(new Intent(Intent.ACTION_VIEW,
-                Uri.parse(activity.getString(R.string.doc_url))));
-        addPreference(usagePref);
 
         if (BuildConfig.DEBUG) {
             var debugPref = new Preference(activity);

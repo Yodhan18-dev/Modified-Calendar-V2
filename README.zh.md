@@ -1,14 +1,13 @@
 
-![poster](https://raw.githubusercontent.com/deltazefiro/ImageHost/master/amarok-169-poster.png)
 
 # Amarok-Hider
 
 [![](https://img.shields.io/visual-studio-app-center/releases/version/deltazefiro/Amarok/2e57e3f726f6bdf0b9bd5e3791bd2c5d1ab1dbe2?color=blue&label=AppCenter)](https://install.appcenter.ms/users/deltazefiro/apps/amarok/distribution_groups/public) 
-[![](https://img.shields.io/github/v/release/deltazefiro/Amarok-Hider?label=GithubRelease)](https://github.com/deltazefiro/Amarok-Hider/releases) 
+[![](https://img.shields.io/github/v/release/deltazefiro/Amarok-Hider?label=GithubRelease)]() 
 [![](https://img.shields.io/f-droid/v/deltazero.amarok.foss?color=blue)](https://f-droid.org/zh_Hans/packages/deltazero.amarok.foss/) 
 [![](https://img.shields.io/endpoint?url=https://apt.izzysoft.de/fdroid/api/v1/shield/deltazero.amarok.foss&color=orange)](https://apt.izzysoft.de/fdroid/index/apk/deltazero.amarok.foss) 
 
-🌐 [ENGLISH](https://github.com/deltazefiro/Amarok-Hider) | **简体中文**
+🌐 [ENGLISH]() | **简体中文**
 
 
 ## Amarok 是什么？
@@ -33,22 +32,17 @@ Amarok 的设计理念为不对文件与应用进行复杂加密，而是进行�
 
 
 ## 使用文档
-[![](https://img.shields.io/badge/Amarok%E4%BD%BF%E7%94%A8%E6%96%87%E6%A1%A3-%E7%82%B9%E5%87%BB%E6%9F%A5%E7%9C%8B-brightgreen)](https://deltazefiro.github.io/Amarok-doc/)  
 
 
 ## 下载
 [![](https://img.shields.io/visual-studio-app-center/releases/version/deltazefiro/Amarok/2e57e3f726f6bdf0b9bd5e3791bd2c5d1ab1dbe2?color=blue&label=AppCenter)](https://install.appcenter.ms/users/deltazefiro/apps/amarok/distribution_groups/public) (推荐)  
-[![](https://img.shields.io/github/v/release/deltazefiro/Amarok-Hider?label=GithubRelease)](https://github.com/deltazefiro/Amarok-Hider/releases)  
+[![](https://img.shields.io/github/v/release/deltazefiro/Amarok-Hider?label=GithubRelease)]()  
 [![](https://img.shields.io/f-droid/v/deltazero.amarok.foss?color=blue)](https://f-droid.org/zh_Hans/packages/deltazero.amarok.foss/) (FOSS)  
 [![](https://img.shields.io/endpoint?url=https://apt.izzysoft.de/fdroid/api/v1/shield/deltazero.amarok.foss&color=orange)](https://apt.izzysoft.de/fdroid/index/apk/deltazero.amarok.foss)  (FOSS) (测试通道)  
 
 
 ## 截图
 
-![Screenshot](https://raw.githubusercontent.com/deltazefiro/ImageHost/master/amarok-169-1.png)
-![Screenshot](https://raw.githubusercontent.com/deltazefiro/ImageHost/master/amarok-169-2.png)
-![Screenshot](https://raw.githubusercontent.com/deltazefiro/ImageHost/master/amarok-169-3.png)
-![Screenshot](https://raw.githubusercontent.com/deltazefiro/ImageHost/master/amarok-169-4.png)
 
 
 ## 参与开发
@@ -64,15 +58,15 @@ We use [weblate](https://hosted.weblate.org/engage/amarok-hider/) for translatio
 
 ## 感谢
 
-- [aistra0528/Hail](https://github.com/aistra0528/Hail), for providing code reference for the app hider.
+- [aistra0528/Hail](), for providing code reference for the app hider.
 - [Icongeek26](https://www.flaticon.com/authors/icongeek26) & 
 [Freepik](), for the icons
 - [Jetbrains](https://www.jetbrains.com/community/opensource/#support), provides IDE support for open source projects
-- [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku)
-- [iamr0s/Dhizuku](https://github.com/iamr0s/Dhizuku)
-- [kizitonwose/Calendar](https://github.com/kizitonwose/Calendar)
+- [RikkaApps/Shizuku]()
+- [iamr0s/Dhizuku]()
+- [kizitonwose/Calendar]()
 
-... 以及所有的[贡献者](https://github.com/deltazefiro/Amarok-Hider/graphs/contributors)！  
+... 以及所有的[贡献者]()！  
 
 
 ## 免责声明

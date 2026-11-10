@@ -15,7 +15,6 @@ public class MediaStoreHelper {
                     (ignore, ignore2) -> Log.d(TAG, "MediaStore cache refreshed"));
         } catch (Exception e) {
             // MediaScannerConnection.scanFile may throw ArrayIndexOutOfBoundsException on OxygenOS 11
-            // See https://github.com/deltazefiro/Amarok-Hider/issues/171#issuecomment-2225104851
             Log.w(TAG, "Error while rescanning media store", e);
         }
     }
